@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<crawl-breakpoints>
+    <products-breakpoint>   
+        <products xmlns="https://www.facebook.com/xml" host="https://classic.vn/">
+            <product xmlns="https://www.facebook.com/xml" 
+                     link="https://classic.vn/cua-hang/cham-soc-toc/pomade/">
+            </product>
+
+            <product xmlns="https://www.facebook.com/xml" 
+                     link="https://classic.vn/cua-hang/cham-soc-toc/sap-vuot-toc/">
+            </product>
+    
+            <product xmlns="https://www.facebook.com/xml" 
+                     link="https://classic.vn/cua-hang/cham-soc-toc/sap-vuot-toc/page/2/">
+            </product>
+    
+            <product xmlns="https://www.facebook.com/xml" 
+                     link="https://classic.vn/cua-hang/cham-soc-toc/dau-goi-dau-xa/">
+            </product>
+    
+            <product xmlns="https://www.facebook.com/xml" 
+                     link="https://classic.vn/cua-hang/cham-soc-toc/dau-goi-dau-xa/page/2/">
+            </product>
+    
+            <product xmlns="https://www.facebook.com/xml" 
+                     link="https://classic.vn/cua-hang/cham-soc-toc/hair-spray/">
+            </product>
+    
+            <product xmlns="https://www.facebook.com/xml" 
+                     link="https://classic.vn/cua-hang/cham-soc-toc/tinh-dau/">
+            </product>
+    
+            <product xmlns="https://www.facebook.com/xml" 
+                     link="https://classic.vn/cua-hang/phu-kien-toc/may-say-toc/">
+            </product>
+    
+            <product xmlns="https://www.facebook.com/xml" 
+                     link="https://classic.vn/cua-hang/phu-kien-toc/luoc-tao-kieu/">
+            </product>
+    
+            <product xmlns="https://www.facebook.com/xml" 
+                     link="https://classic.vn/cua-hang/nuoc-hoa-nam/nuoc-hoa/">
+            </product>
+    
+            <product xmlns="https://www.facebook.com/xml" 
+                     link="https://classic.vn/cua-hang/nuoc-hoa-nam/nuoc-hoa-kho/">
+            </product>
+    
+            <product xmlns="https://www.facebook.com/xml" 
+                     link="https://classic.vn/cua-hang/cham-soc-da/sua-rua-mat/">
+            </product>
+        </products>
+    
+        <products xmlns="https://www.pt.com/xml">
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/sap-vuot-toc/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/sap-vuot-toc/page/2/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/sap-vuot-toc/page/3/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/sap-vuot-toc/page/4/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/sap-vuot-toc/page/5/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/sap-vuot-toc/page/6/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/sap-vuot-toc/page/7/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/sap-vuot-toc/page/8/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/pomade/page/1/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/pomade/page/2/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/pomade/page/3/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/pomade/page/4/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/pomade/page/5/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/pomade/page/6/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/pre-styling-chuyen-dung/page/1/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/pre-styling-chuyen-dung/page/2/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/bot-tao-phong/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/gom/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/nuoc-hoa/page/1/?v=e14da64a5617">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/nuoc-hoa/page/2/?v=e14da64a5617">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/nuoc-hoa/page/3/?v=e14da64a5617">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/nuoc-hoa/page/4/?v=e14da64a5617">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-goi-cao-cap/page/1/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-goi-cao-cap/page/2/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-goi-cao-cap/page/3/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-xa-cao-cap/page/1/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-xa-cao-cap/page/2/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-xa-cao-cap/page/3/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-duong-toc/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/dung-cu-tao-kieu/luoc/">
+            </product>
+            <product xmlns="https://www.pt.com/xml" 
+                     link="https://clmensstore.com/danh-muc/dung-cu-tao-kieu/may-say-toc/">
+            </product>
+        </products>
+    </products-breakpoint>
+    
+</crawl-breakpoints>
+

@@ -1,0 +1,1692 @@
+<body class="archive tax-product_cat term-sap-vuot-toc term-96 theme-flatsome woocommerce woocommerce-page woocommerce-no-js full-width header-shadow bg-fill lightbox nav-dropdown-has-arrow">
+    <a href="#main" class="skip-link screen-reader-text">Skip to content</a>
+    <div id="wrapper">
+        <header id="header" class="header has-sticky sticky-shrink">
+            <div class="header-wrapper">
+                <div id="top-bar" class="header-top hide-for-sticky">
+                    <div class="flex-row container">
+                        <div class="flex-col hide-for-medium flex-left">
+                            <ul class="nav nav-left medium-nav-center nav-small  nav-divided">
+                                <li class="html custom html_topbar_left">
+                                    <strong style="font-size:14px" class="uppercase">Liên hệ tư vấn:<span style="color: red">090 14 322 41</span></strong>
+                                </li>
+                                <li class="html custom html_topbar_right">
+                                    <strong style="font-size:11px" class="uppercase">Địa chỉ:<span style="color: red">151/8 Lạc Long Quân, Phường 1, Quận 11</span>(lưu ý PHường 1)</strong>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="flex-col hide-for-medium flex-center">
+                            <ul class="nav nav-center nav-small  nav-divided"></ul>
+                        </div>
+                        <div class="flex-col hide-for-medium flex-right">
+                            <ul class="nav top-bar-nav nav-right nav-small  nav-divided">
+                                <li id="menu-item-5068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5068">
+                                    <a href="https://clmensstore.com/gioi-thieu/" class="nav-top-link">Về chúng tôi</a>
+                                </li>
+                                <li id="menu-item-5074" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5074">
+                                    <a href="https://clmensstore.com/blog/cac-cau-hoi-faq-giai-dap-thac-mac-danh-cho-khach-hang/" class="nav-top-link">Các câu hỏi &amp;#8211; FAQ</a>
+                                </li>
+                                <li id="menu-item-5069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5069">
+                                    <a href="https://clmensstore.com/lien-he/" class="nav-top-link">Liên hệ</a>
+                                </li>
+                                <li class="html header-social-icons ml-0">
+                                    <div class="social-icons follow-icons">
+                                        <a rel="noopener noreferrer nofollow" href="https://www.facebook.com/CLMensStore/" title="Làm theo trên Facebook" data-label="Facebook" class="icon plain facebook tooltip" target="_blank">
+                                            <i class="icon-facebook"></i>
+                                        </a>
+                                        <a rel="noopener noreferrer nofollow" href="https://www.instagram.com/clmensstore/" title="Làm theo trên Instagram" data-label="Instagram" class="icon plain  instagram tooltip" target="_blank">
+                                            <i class="icon-instagram"></i>
+                                        </a>
+                                        <a rel="nofollow" href="mailto:clmensstore.com@gmail.com" title="Gửi email cho chúng tôi" data-label="E-mail" class="icon plain  email tooltip">
+                                            <i class="icon-envelop"></i>
+                                        </a>
+                                        <a rel="noopener noreferrer nofollow" href="tel:0901432241" title="Call us" data-label="Phone" class="icon plain  phone tooltip" target="_blank">
+                                            <i class="icon-phone"></i>
+                                        </a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="flex-col show-for-medium flex-grow">
+                            <ul class="nav nav-center nav-small mobile-nav  nav-divided">
+                                <li class="html custom html_topbar_left">
+                                    <strong style="font-size:14px" class="uppercase">Liên hệ tư vấn:<span style="color: red">090 14 322 41</span></strong>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div id="masthead" class="header-main ">
+                    <div role="navigation" class="header-inner flex-row container logo-left medium-logo-center">
+                        <div id="logo" class="flex-col logo">
+                            <a rel="home" href="https://clmensstore.com/" title="CL Men&amp;#039;s Store &amp;#8211; Chuyên WAX , POMADE &amp;amp; nước hoa hàng hiệu - Cung cấp các sản phẩm tạo kiểu tóc cao cấp chính hãng">
+                                <img src="https://clmensstore.com/wp-content/uploads/2018/07/37717589_818810961642335_8791362317594918912_n.png" width="227" alt="CL Men&amp;#039;s Store &amp;#8211; Chuyên WAX , POMADE &amp;amp; nước hoa hàng hiệu" class="header_logo header-logo" height="100"/>
+                                <img src="https://clmensstore.com/wp-content/uploads/2018/07/37717589_818810961642335_8791362317594918912_n.png" width="227" alt="CL Men&amp;#039;s Store &amp;#8211; Chuyên WAX , POMADE &amp;amp; nước hoa hàng hiệu" class="header-logo-dark" height="100"/>
+                            </a>
+                        </div>
+                        <div class="flex-col show-for-medium flex-left">
+                            <ul class="mobile-nav nav nav-left ">
+                                <li class="nav-icon has-icon">
+                                    <a data-pos="center" data-color="dark" aria-controls="main-menu" aria-expanded="false" data-open="#main-menu" href="#" data-bg="main-menu-overlay" class="is-small" aria-label="Menu">
+                                        <i class="icon-menu"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="flex-col hide-for-medium flex-leftflex-grow">
+                            <ul class="header-nav header-nav-main nav nav-left  nav-uppercase">
+                                <li class="header-search-form search-form html relative has-icon">
+                                    <div class="header-search-form-wrapper">
+                                        <div class="searchform-wrapper ux-search-box relative form-flat is-normal">
+                                            <form role="search" method="get" action="https://clmensstore.com/" class="searchform">
+                                                <div class="flex-row relative">
+                                                    <div class="flex-col flex-grow">
+                                                        <label for="woocommerce-product-search-field-0" class="screen-reader-text">Tìm kiếm:</label>
+                                                        <input name="s" id="woocommerce-product-search-field-0" placeholder="Nhập ít nhất 3 ký tự để tìm sản phẩm" type="search" class="search-field mb-0" value=""/>
+                                                        <input name="post_type" type="hidden" value="product"/>
+                                                    </div>
+                                                    <div class="flex-col">
+                                                        <button type="submit" value="Tìm kiếm" class="ux-search-submit submit-button secondary button icon mb-0">
+                                                            <i class="icon-search"></i>
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                                <div class="live-search-results text-left z-top"></div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="flex-col hide-for-medium flex-right">
+                            <ul class="header-nav header-nav-main nav nav-right  nav-uppercase">
+                                <li class="account-item has-icon">
+                                    <a data-open="#login-form-popup" href="https://clmensstore.com/tai-khoan/" class="nav-top-link nav-top-not-logged-in is-small">
+                                        <i class="icon-user"></i>
+                                    </a>
+                                </li>
+                                <li class="header-divider"></li>
+                                <li class="cart-item has-icon has-dropdown">
+                                    <a href="https://clmensstore.com/gio-hang/" title="Giỏ hàng" class="header-cart-link is-small">
+                                        <i data-icon-label="0" class="icon-shopping-cart"></i>
+                                    </a>
+                                    <ul class="nav-dropdown nav-dropdown-default">
+                                        <li class="html widget_shopping_cart">
+                                            <div class="widget_shopping_cart_content">
+                                                <p class="woocommerce-mini-cart__empty-message">Chưa có sản phẩm trong giỏ hàng.</p>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="flex-col show-for-medium flex-right">
+                            <ul class="mobile-nav nav nav-right ">
+                                <li class="cart-item has-icon">
+                                    <a data-pos="right" data-class="off-canvas-cart" data-open="#cart-popup" href="https://clmensstore.com/gio-hang/" title="Giỏ hàng" class="header-cart-link off-canvas-toggle nav-top-link is-small">
+                                        <i data-icon-label="0" class="icon-shopping-cart"></i>
+                                    </a>
+                                    <div id="cart-popup" class="mfp-hide widget_shopping_cart">
+                                        <div class="cart-popup-inner inner-padding">
+                                            <div class="cart-popup-title text-center">
+                                                <h4 class="uppercase">Giỏ hàng</h4>
+                                                <div class="is-divider"></div>
+                                            </div>
+                                            <div class="widget_shopping_cart_content">
+                                                <p class="woocommerce-mini-cart__empty-message">Chưa có sản phẩm trong giỏ hàng.</p>
+                                            </div>
+                                            <div class="cart-sidebar-content relative"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="top-divider full-width"></div>
+                    </div>
+                </div>
+                <div id="wide-nav" class="header-bottom wide-nav nav-dark hide-for-medium">
+                    <div class="flex-row container">
+                        <div class="flex-col hide-for-medium flex-left">
+                            <ul class="nav header-nav header-bottom-nav nav-left  nav-line-bottom nav-size-medium nav-uppercase">
+                                <li id="menu-item-5060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5060 has-dropdown">
+                                    <a href="#" class="nav-top-link">Thương Hiêu<i class="icon-angle-down"></i></a>
+                                    <ul class="sub-menu nav-dropdown nav-dropdown-default">
+                                        <li id="menu-item-26247" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-26247 nav-dropdown-col">
+                                            <a href="#">Thương hiệu ngoại P.1</a>
+                                            <ul class="sub-menu nav-column nav-dropdown-default">
+                                                <li id="menu-item-5339" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-5339">
+                                                    <a href="https://clmensstore.com/portfolio/18-21-man-made/">18.21 MAN MADE</a>
+                                                </li>
+                                                <li id="menu-item-2233" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2233">
+                                                    <a href="https://clmensstore.com/portfolio/apestomen/">APESTOMEN</a>
+                                                </li>
+                                                <li id="menu-item-5303" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-5303">
+                                                    <a href="https://clmensstore.com/portfolio/arcadian-grooming/">ARCADIAN GROOMING</a>
+                                                </li>
+                                                <li id="menu-item-2234" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2234">
+                                                    <a href="https://clmensstore.com/portfolio/blumaan/">BLUMAAN</a>
+                                                </li>
+                                                <li id="menu-item-5545" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-5545">
+                                                    <a href="https://clmensstore.com/portfolio/bona-fide/">BONA FIDE</a>
+                                                </li>
+                                                <li id="menu-item-2235" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2235">
+                                                    <a href="https://clmensstore.com/portfolio/by-vilain/">BY VILAIN</a>
+                                                </li>
+                                                <li id="menu-item-25675" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-25675">
+                                                    <a href="https://clmensstore.com/portfolio/dauntless-grooming/">DAUNTLESS GROOMING</a>
+                                                </li>
+                                                <li id="menu-item-26246" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-26246">
+                                                    <a href="https://clmensstore.com/portfolio/dapper-dan/">DAPPER DAN</a>
+                                                </li>
+                                                <li id="menu-item-2415" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2415">
+                                                    <a href="https://clmensstore.com/portfolio/flagship-pomade/">FLAGSHIP POMADE</a>
+                                                </li>
+                                                <li id="menu-item-2239" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2239">
+                                                    <a href="https://clmensstore.com/portfolio/hanz-de-fuko/">HANZ DE FUKO</a>
+                                                </li>
+                                                <li id="menu-item-6502" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-6502">
+                                                    <a href="https://clmensstore.com/portfolio/shear-revival/">SHEAR REVIVAL</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li id="menu-item-498" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-498 nav-dropdown-col">
+                                            <a href="#">Thương hiệu ngoại P.2</a>
+                                            <ul class="sub-menu nav-column nav-dropdown-default">
+                                                <li id="menu-item-32130" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-32130">
+                                                    <a href="https://clmensstore.com/portfolio/suavecito/">SUAVECITO</a>
+                                                </li>
+                                                <li id="menu-item-32577" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-32577">
+                                                    <a href="https://clmensstore.com/portfolio/stickmore/">STICKMORE</a>
+                                                </li>
+                                                <li id="menu-item-17535" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-17535">
+                                                    <a href="https://clmensstore.com/portfolio/templeton-tonics/">TEMPLETON TONICS</a>
+                                                </li>
+                                                <li id="menu-item-2241" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2241">
+                                                    <a href="https://clmensstore.com/portfolio/morris-motley/">MORRIS MOTLEY</a>
+                                                </li>
+                                                <li id="menu-item-25674" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-25674">
+                                                    <a href="https://clmensstore.com/portfolio/moroccanoil/">MOROCCANOIL</a>
+                                                </li>
+                                                <li id="menu-item-2240" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2240">
+                                                    <a href="https://clmensstore.com/portfolio/kevin-murphy/">KEVIN MURPHY</a>
+                                                </li>
+                                                <li id="menu-item-2434" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2434">
+                                                    <a href="https://clmensstore.com/portfolio/odouds/">O&amp;#8217;DOUDS</a>
+                                                </li>
+                                                <li id="menu-item-31549" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-31549">
+                                                    <a href="https://clmensstore.com/portfolio/orientt/">ORIEN&amp;#8217;T</a>
+                                                </li>
+                                                <li id="menu-item-2242" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2242">
+                                                    <a href="https://clmensstore.com/portfolio/reuzel-pomade/">REUZEL GROOMING</a>
+                                                </li>
+                                                <li id="menu-item-2238" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2238">
+                                                    <a href="https://clmensstore.com/portfolio/grim-grease/">GRIM GREASE</a>
+                                                </li>
+                                                <li id="menu-item-2988" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2988">
+                                                    <a href="https://clmensstore.com/portfolio/rumble59/">RUMBLE59</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li id="menu-item-9593" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9593 nav-dropdown-col">
+                                            <a href="#">Thương hiệu nước hoa</a>
+                                            <ul class="sub-menu nav-column nav-dropdown-default">
+                                                <li id="menu-item-9597" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-9597">
+                                                    <a href="https://clmensstore.com/portfolio/calvin-klein/">CALVIN KLEIN</a>
+                                                </li>
+                                                <li id="menu-item-32575" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-32575">
+                                                    <a href="https://clmensstore.com/portfolio/tom-ford/">TOM FORD</a>
+                                                </li>
+                                                <li id="menu-item-32576" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-32576">
+                                                    <a href="https://clmensstore.com/portfolio/versace/">VERSACE</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li id="menu-item-1176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1176 nav-dropdown-col">
+                                            <a href="#">Thương hiệu Việt</a>
+                                            <ul class="sub-menu nav-column nav-dropdown-default">
+                                                <li id="menu-item-5403" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-5403">
+                                                    <a href="https://clmensstore.com/portfolio/cl-mens-grooming/">CL MEN&amp;#8217;S GROOMING</a>
+                                                </li>
+                                                <li id="menu-item-10989" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-10989">
+                                                    <a href="https://clmensstore.com/portfolio/the-gents-bay/">THE GENTS BAY</a>
+                                                </li>
+                                                <li id="menu-item-2243" class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2243">
+                                                    <a href="https://clmensstore.com/portfolio/stephen-nolan-603/">STEPHEN NOLAN 603</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li id="menu-item-496" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-496 active has-dropdown">
+                                    <a class="nav-top-link">Tóc<i class="icon-angle-down"></i></a>
+                                    <ul class="sub-menu nav-dropdown nav-dropdown-default">
+                                        <li id="menu-item-849" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-849 active">
+                                            <a aria-current="page" href="https://clmensstore.com/danh-muc/sap-vuot-toc/">Sáp vuốt tóc</a>
+                                        </li>
+                                        <li id="menu-item-850" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-850">
+                                            <a href="https://clmensstore.com/danh-muc/pomade">Pomade</a>
+                                        </li>
+                                        <li id="menu-item-895" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-895">
+                                            <a href="https://clmensstore.com/danh-muc/pre-styling-chuyen-dung">Pre-Styling chuyên dụng</a>
+                                        </li>
+                                        <li id="menu-item-25157" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-25157">
+                                            <a href="https://clmensstore.com/danh-muc/bot-tao-phong/">Bột tạo phồng</a>
+                                        </li>
+                                        <li id="menu-item-893" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-893">
+                                            <a href="https://clmensstore.com/danh-muc/gom/">Gôm</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li id="menu-item-31547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-31547 has-dropdown">
+                                    <a href="#" class="nav-top-link">Râu<i class="icon-angle-down"></i></a>
+                                    <ul class="sub-menu nav-dropdown nav-dropdown-default">
+                                        <li id="menu-item-31548" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31548">
+                                            <a href="https://clmensstore.com/danh-muc/duong-cao-rau/">Kem cạo râu</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li id="menu-item-485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-485 has-dropdown">
+                                    <a href="https://clmensstore.com/danh-muc/nuoc-hoa/?v=e14da64a5617" class="nav-top-link">NƯỚC HOA<i class="icon-angle-down"></i></a>
+                                    <ul class="sub-menu nav-dropdown nav-dropdown-default">
+                                        <li id="menu-item-864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-864">
+                                            <a href="https://clmensstore.com/danh-muc/nuoc-hoa-nam" title="Nước hoa nam cao cấp &amp;#8211; CL Men&amp;#8217;s Store chuyên hàng hiệu nhập khẩu">Nước hoa nam</a>
+                                        </li>
+                                        <li id="menu-item-5479" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5479">
+                                            <a href="https://clmensstore.com/danh-muc/nuoc-hoa/nuoc-hoa-kho/">Nước hoa khô</a>
+                                        </li>
+                                        <li id="menu-item-1795" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1795">
+                                            <a href="https://clmensstore.com/danh-muc/nuoc-hoa/nuoc-hoa-nu/">Nước hoa nữ</a>
+                                        </li>
+                                        <li id="menu-item-1484" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1484">
+                                            <a href="https://clmensstore.com/danh-muc/nuoc-hoa/nuoc-hoa-mini/">Nước hoa mini</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li id="menu-item-902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-902 has-dropdown">
+                                    <a class="nav-top-link">Toàn thân<i class="icon-angle-down"></i></a>
+                                    <ul class="sub-menu nav-dropdown nav-dropdown-default">
+                                        <li id="menu-item-1371" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1371">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-goi-cao-cap/">Dầu gội cao cấp</a>
+                                        </li>
+                                        <li id="menu-item-1372" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1372">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-xa-cao-cap/">Dầu xả cao cấp</a>
+                                        </li>
+                                        <li id="menu-item-1392" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1392">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-duong-toc/">Dầu dưỡng tóc</a>
+                                        </li>
+                                        <li id="menu-item-4448" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4448">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-goi-kho/">Dầu gội khô</a>
+                                        </li>
+                                        <li id="menu-item-16081" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16081">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/sua-rua-mat/">Sữa rửa mặt</a>
+                                        </li>
+                                        <li id="menu-item-9602" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9602">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/sua-tam-body-wash/">Sữa tắm &amp;#8211; Body Wash</a>
+                                        </li>
+                                        <li id="menu-item-15018" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-15018">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/khu-mui-co-the/">Khử mùi cơ thể</a>
+                                        </li>
+                                        <li id="menu-item-5461" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5461">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/xa-phong-toan-than/">Xà phồng toàn thân</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li id="menu-item-28033" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-28033 has-dropdown">
+                                    <a href="#" class="nav-top-link">Gói Combo<i class="icon-angle-down"></i></a>
+                                    <ul class="sub-menu nav-dropdown nav-dropdown-default">
+                                        <li id="menu-item-28034" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-28034">
+                                            <a href="https://clmensstore.com/danh-muc/goi-combo-khuyen-mai/">Combo khuyến mãi</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li id="menu-item-4120" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-4120 has-dropdown">
+                                    <a href="https://clmensstore.com/danh-muc/dung-cu-tao-kieu/" class="nav-top-link">Dụng cụ<i class="icon-angle-down"></i></a>
+                                    <ul class="sub-menu nav-dropdown nav-dropdown-default">
+                                        <li id="menu-item-2698" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2698">
+                                            <a href="https://clmensstore.com/danh-muc/dung-cu-tao-kieu/luoc/">Lược</a>
+                                        </li>
+                                        <li id="menu-item-4121" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4121">
+                                            <a href="https://clmensstore.com/danh-muc/dung-cu-tao-kieu/may-say-toc/">Máy sấy tóc</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li id="menu-item-511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-511 has-dropdown">
+                                    <a href="https://clmensstore.com/tong-hop-bai-viet/" class="nav-top-link">Blog / Reviews<i class="icon-angle-down"></i></a>
+                                    <ul class="sub-menu nav-dropdown nav-dropdown-default">
+                                        <li id="menu-item-1197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1197">
+                                            <a href="https://clmensstore.com/tong-hop-bai-viet/blog-huong-dan/">Blog &amp;#038; Hướng dẫn</a>
+                                        </li>
+                                        <li id="menu-item-1301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1301">
+                                            <a href="https://clmensstore.com/tong-hop-bai-viet/reviews-san-pham/">Reviews Sản Phẩm</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="flex-col hide-for-medium flex-right flex-grow">
+                            <ul class="nav header-nav header-bottom-nav nav-right  nav-line-bottom nav-size-medium nav-uppercase"></ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="header-bg-container fill">
+                    <div class="header-bg-image fill"></div>
+                    <div class="header-bg-color fill"></div>
+                </div>
+            </div>
+        </header>
+        <div class="shop-page-title category-page-title page-title ">
+            <div class="page-title-inner flex-row  medium-flex-wrap container">
+                <div class="flex-col flex-grow medium-text-center">
+                    <div class="is-medium">
+                        <nav class="woocommerce-breadcrumb breadcrumbs uppercase">
+                            <a href="https://clmensstore.com">Trang chủ</a>
+                            <span class="divider">&amp;#47;</span>
+                            <a href="https://clmensstore.com/cua-hang/">Cửa hàng</a>
+                            <span class="divider">&amp;#47;</span>Sáp vuốt tóc</nav>
+                    </div>
+                    <div class="category-filtering category-filter-row show-for-medium">
+                        <a data-pos="left" data-open="#shop-sidebar" data-visible-after="true" href="#" class="filter-button uppercase plain">
+                            <i class="icon-menu"></i>
+                            <strong>Lọc</strong>
+                        </a>
+                        <div class="inline-block"></div>
+                    </div>
+                </div>
+                <div class="flex-col medium-text-center">
+                    <p class="woocommerce-result-count hide-for-medium">Showing 1&amp;ndash;12 of 89 results</p>
+                    <form method="get" class="woocommerce-ordering">
+                        <select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
+                            <option value="menu_order" selected="selected">Thứ tự mặc định</option>
+                            <option value="popularity">Thứ tự theo mức độ phổ biến</option>
+                            <option value="rating">Thứ tự theo điểm đánh giá</option>
+                            <option value="date">Mới nhất</option>
+                            <option value="price">Thứ tự theo giá: thấp đến cao</option>
+                            <option value="price-desc">Thứ tự theo giá: cao xuống thấp</option>
+                        </select>
+                        <input name="paged" type="hidden" value="1"/>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <main id="main" class="">
+            <div class="row category-page-row">
+                <div class="col large-9">
+                    <div class="shop-container">
+                        <div class="term-description">
+                            <h2>Sáp vuốt tóc &amp;#8211; chứng minh thương hiệu đẳng cấp nhất Việt Nam</h2>
+                            <p>
+                                <strong>CL Men&amp;#8217;s Store</strong>được thành lập vào năm 2016 với mục tiêu đem về những dòng<strong>sáp vuốt tóc</strong>cao cấp nhất thế giới đến tay những khách hàng ở Việt Nam.</p>
+                            <p>Điều này là điều khó khăn nhất khi thị trường Việt Nam vẫn quen lối sử dụng sáp tàu là chính với giá từ 50 nghìn tới 100 nghìn đồng. Những dòng<strong>sáp vuốt tóc</strong>của CL Men&amp;#8217;s Store luôn được nhập từ nhiều quốc gia như:</p>
+                            <blockquote>
+                                <p style="text-align: left;">Đan mạch, Mỹ, Úc, Đức, Singarpore và Việt Nam</p>
+                            </blockquote>
+                            <p>Chúng tôi luôn tìm kiếm những dòng sản phẩm mới nhất, tốt nhất. Và chúng tôi sẽ  đem về phục vụ cho người Việt.</p>
+                            <p>Điển hình là những thương hiệu đình đám như:</p>
+                            <p>+ Hanz de Fuko<br/>+ Kevin Murphy<br/>+ Morris Motley<br/>
+                                <span style="font-size: 14.4px;">+ By Vilain<br/>+ Blumaan</span>
+                            </p>
+                            <p>
+                                <span style="font-size: 14.4px;">Hoặc những thương hiệu nổi tiếng trên thế giới mà chưa ai biết như: 18.21 Man Made, Lock Hart&amp;#8217;s, O&amp;#8217;douds v..v</span>
+                            </p>
+                            <p>CL Men&amp;#8217;s Store luôn đi với châm ngôn &amp;#8220;Luôn luôn là hàng cao cấp, khách hàng mãi mãi là thượng đế&amp;#8221;.</p>
+                            <h2>CL Men&amp;#8217;s Store &amp;#8211;<strong>Sáp vuốt tóc</strong>cao cấp</h2>
+                        </div>
+                        <div class="woocommerce-notices-wrapper"></div>
+                        <div class="products row row-small large-columns-4 medium-columns-3 small-columns-2 has-shadow row-box-shadow-1-hover has-equal-box-heights equalize-box">
+                            <div class="product-small col has-hover product type-product post-16988 status-publish first instock product_cat-sap-vuot-toc has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+                                <div class="col-inner">
+                                    <div class="badge-container absolute left top z-1">
+                                        <div class="callout badge badge-square">
+                                            <div class="badge-inner secondary on-sale">
+                                                <span class="onsale">-5%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="product-small box ">
+                                        <div class="box-image">
+                                            <div class="image-fade_in_back">
+                                                <a href="https://clmensstore.com/cua-hang/18-21-man-made-beard-balm/">
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2019/10/Burlap_BLM2_Color_WEB_1500x1500-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="18.21 MAN MADE beard Balm" data-srcset="https://clmensstore.com/wp-content/uploads/2019/10/Burlap_BLM2_Color_WEB_1500x1500-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2019/10/Burlap_BLM2_Color_WEB_1500x1500-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2019/10/Burlap_BLM2_Color_WEB_1500x1500-100x100.jpg 100w" srcset="" class="lazy-load attachment-woocommerce_thumbnail size-woocommerce_thumbnail" height="247"/>
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2019/10/OPEN_BLM2_1500x1500-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2019/10/OPEN_BLM2_1500x1500-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2019/10/OPEN_BLM2_1500x1500-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2019/10/OPEN_BLM2_1500x1500-100x100.jpg 100w" srcset="" class="lazy-load show-on-hover absolute fill hide-for-small back-image" height="247"/>
+                                                </a>
+                                            </div>
+                                            <div class="image-tools is-small top right show-on-hover"></div>
+                                            <div class="image-tools is-small hide-for-small bottom left show-on-hover"></div>
+                                            <div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"></div>
+                                        </div>
+                                        <div class="box-text box-text-products text-center grid-style-2">
+                                            <div class="title-wrapper">
+                                                <p class="name product-title">
+                                                    <a href="https://clmensstore.com/cua-hang/18-21-man-made-beard-balm/">18.21 MAN MADE BEARD  BALM</a>
+                                                </p>
+                                            </div>
+                                            <div class="price-wrapper">
+                                                <span class="price">
+                                                    <del>
+                                                        <span class="woocommerce-Price-amount amount">580,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </del>
+                                                    <ins>
+                                                        <span class="woocommerce-Price-amount amount">550,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </ins>
+                                                </span>
+                                            </div>
+                                            <a data-product_id="16988" data-product_sku="" rel="nofollow" href="https://clmensstore.com/cua-hang/18-21-man-made-beard-balm/" data-quantity="1" class="        add_to_cart_button product_type_simple button primary mb-0 is-outline is-small" aria-label="Thêm &amp;ldquo;18.21 MAN MADE BEARD  BALM&amp;rdquo; vào giỏ hàng">Lựa chọn các tùy chọn</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="product-small col has-hover product type-product post-5342 status-publish instock product_cat-sap-vuot-toc product_tag-18-21-man-made product_tag-clay-wax product_tag-sap-vuot-toc product_tag-sap-vuot-toc-cao-cap product_tag-sap-vuot-toc-nam product_tag-sap-vuot-toc-nam-cao-cap product_tag-wax-chinh-hang has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+                                <div class="col-inner">
+                                    <div class="badge-container absolute left top z-1">
+                                        <div class="callout badge badge-square">
+                                            <div class="badge-inner secondary on-sale">
+                                                <span class="onsale">-5%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="product-small box ">
+                                        <div class="box-image">
+                                            <div class="image-fade_in_back">
+                                                <a href="https://clmensstore.com/cua-hang/sap-vuot-toc-18-21-man-made-clay/">
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2018/07/rNwnpDo-e1534095313612-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2018/07/rNwnpDo-e1534095313612-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2018/07/rNwnpDo-e1534095313612-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2018/07/rNwnpDo-e1534095313612-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2018/07/rNwnpDo-e1534095313612-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2018/07/rNwnpDo-e1534095313612-1024x1024.jpg 1024w, https://clmensstore.com/wp-content/uploads/2018/07/rNwnpDo-e1534095313612-510x510.jpg 510w, https://clmensstore.com/wp-content/uploads/2018/07/rNwnpDo-e1534095313612-100x100.jpg 100w, https://clmensstore.com/wp-content/uploads/2018/07/rNwnpDo-e1534095313612.jpg 2048w" srcset="" class="lazy-load attachment-woocommerce_thumbnail size-woocommerce_thumbnail" height="247"/>
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2018/07/sFOZGQz-e1534095550950-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2018/07/sFOZGQz-e1534095550950-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2018/07/sFOZGQz-e1534095550950-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2018/07/sFOZGQz-e1534095550950-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2018/07/sFOZGQz-e1534095550950-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2018/07/sFOZGQz-e1534095550950-1024x1024.jpg 1024w, https://clmensstore.com/wp-content/uploads/2018/07/sFOZGQz-e1534095550950-510x510.jpg 510w, https://clmensstore.com/wp-content/uploads/2018/07/sFOZGQz-e1534095550950-100x100.jpg 100w, https://clmensstore.com/wp-content/uploads/2018/07/sFOZGQz-e1534095550950.jpg 2048w" srcset="" class="lazy-load show-on-hover absolute fill hide-for-small back-image" height="247"/>
+                                                </a>
+                                            </div>
+                                            <div class="image-tools is-small top right show-on-hover"></div>
+                                            <div class="image-tools is-small hide-for-small bottom left show-on-hover"></div>
+                                            <div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"></div>
+                                        </div>
+                                        <div class="box-text box-text-products text-center grid-style-2">
+                                            <div class="title-wrapper">
+                                                <p class="name product-title">
+                                                    <a href="https://clmensstore.com/cua-hang/sap-vuot-toc-18-21-man-made-clay/">18.21 Man Made CLAY</a>
+                                                </p>
+                                            </div>
+                                            <div class="price-wrapper">
+                                                <span class="price">
+                                                    <del>
+                                                        <span class="woocommerce-Price-amount amount">580,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </del>
+                                                    <ins>
+                                                        <span class="woocommerce-Price-amount amount">550,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </ins>
+                                                </span>
+                                            </div>
+                                            <div class="add-to-cart-button">
+                                                <a data-product_id="5342" data-product_sku="" rel="nofollow" href="?add-to-cart=5342" data-quantity="1" class="primary is-small mb-0 button product_type_simple add_to_cart_button ajax_add_to_cart is-outline" aria-label="Thêm &amp;ldquo;18.21 Man Made CLAY&amp;rdquo; vào giỏ hàng">Mua hàng</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="product-small col has-hover product type-product post-16415 status-publish instock product_cat-sap-vuot-toc has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+                                <div class="col-inner">
+                                    <div class="badge-container absolute left top z-1">
+                                        <div class="callout badge badge-square">
+                                            <div class="badge-inner secondary on-sale">
+                                                <span class="onsale">-5%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="product-small box ">
+                                        <div class="box-image">
+                                            <div class="image-fade_in_back">
+                                                <a href="https://clmensstore.com/cua-hang/18-21-man-made-paste/">
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2019/09/18.21manmadepaste-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="18.21 Man Made Paste" data-srcset="https://clmensstore.com/wp-content/uploads/2019/09/18.21manmadepaste-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2019/09/18.21manmadepaste-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2019/09/18.21manmadepaste-1024x1024.jpg 1024w, https://clmensstore.com/wp-content/uploads/2019/09/18.21manmadepaste-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2019/09/18.21manmadepaste-768x769.jpg 768w, https://clmensstore.com/wp-content/uploads/2019/09/18.21manmadepaste-510x510.jpg 510w, https://clmensstore.com/wp-content/uploads/2019/09/18.21manmadepaste-100x100.jpg 100w, https://clmensstore.com/wp-content/uploads/2019/09/18.21manmadepaste.jpg 1035w" srcset="" class="lazy-load attachment-woocommerce_thumbnail size-woocommerce_thumbnail" height="247"/>
+                                                </a>
+                                            </div>
+                                            <div class="image-tools is-small top right show-on-hover"></div>
+                                            <div class="image-tools is-small hide-for-small bottom left show-on-hover"></div>
+                                            <div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"></div>
+                                        </div>
+                                        <div class="box-text box-text-products text-center grid-style-2">
+                                            <div class="title-wrapper">
+                                                <p class="name product-title">
+                                                    <a href="https://clmensstore.com/cua-hang/18-21-man-made-paste/">18.21 MAN MADE PASTE</a>
+                                                </p>
+                                            </div>
+                                            <div class="price-wrapper">
+                                                <span class="price">
+                                                    <del>
+                                                        <span class="woocommerce-Price-amount amount">580,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </del>
+                                                    <ins>
+                                                        <span class="woocommerce-Price-amount amount">550,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </ins>
+                                                </span>
+                                            </div>
+                                            <div class="add-to-cart-button">
+                                                <a data-product_id="16415" data-product_sku="" rel="nofollow" href="?add-to-cart=16415" data-quantity="1" class="primary is-small mb-0 button product_type_simple add_to_cart_button ajax_add_to_cart is-outline" aria-label="Thêm &amp;ldquo;18.21 MAN MADE PASTE&amp;rdquo; vào giỏ hàng">Mua hàng</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="product-small col has-hover product type-product post-5332 status-publish last instock product_cat-sap-vuot-toc has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+                                <div class="col-inner">
+                                    <div class="badge-container absolute left top z-1">
+                                        <div class="callout badge badge-square">
+                                            <div class="badge-inner secondary on-sale">
+                                                <span class="onsale">-5%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="product-small box ">
+                                        <div class="box-image">
+                                            <div class="image-fade_in_back">
+                                                <a href="https://clmensstore.com/cua-hang/18-21-man-made-wax/">
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2018/07/aOWiP3t-e1534094988910-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2018/07/aOWiP3t-e1534094988910-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2018/07/aOWiP3t-e1534094988910-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2018/07/aOWiP3t-e1534094988910-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2018/07/aOWiP3t-e1534094988910-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2018/07/aOWiP3t-e1534094988910-1024x1024.jpg 1024w, https://clmensstore.com/wp-content/uploads/2018/07/aOWiP3t-e1534094988910-510x510.jpg 510w, https://clmensstore.com/wp-content/uploads/2018/07/aOWiP3t-e1534094988910-100x100.jpg 100w, https://clmensstore.com/wp-content/uploads/2018/07/aOWiP3t-e1534094988910.jpg 2048w" srcset="" class="lazy-load attachment-woocommerce_thumbnail size-woocommerce_thumbnail" height="247"/>
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2018/07/u1UGSeG-e1534095638609-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2018/07/u1UGSeG-e1534095638609-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2018/07/u1UGSeG-e1534095638609-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2018/07/u1UGSeG-e1534095638609-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2018/07/u1UGSeG-e1534095638609-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2018/07/u1UGSeG-e1534095638609-1024x1024.jpg 1024w, https://clmensstore.com/wp-content/uploads/2018/07/u1UGSeG-e1534095638609-510x510.jpg 510w, https://clmensstore.com/wp-content/uploads/2018/07/u1UGSeG-e1534095638609-100x100.jpg 100w, https://clmensstore.com/wp-content/uploads/2018/07/u1UGSeG-e1534095638609.jpg 2048w" srcset="" class="lazy-load show-on-hover absolute fill hide-for-small back-image" height="247"/>
+                                                </a>
+                                            </div>
+                                            <div class="image-tools is-small top right show-on-hover"></div>
+                                            <div class="image-tools is-small hide-for-small bottom left show-on-hover"></div>
+                                            <div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"></div>
+                                        </div>
+                                        <div class="box-text box-text-products text-center grid-style-2">
+                                            <div class="title-wrapper">
+                                                <p class="name product-title">
+                                                    <a href="https://clmensstore.com/cua-hang/18-21-man-made-wax/">18.21 Man Made WAX</a>
+                                                </p>
+                                            </div>
+                                            <div class="price-wrapper">
+                                                <span class="price">
+                                                    <del>
+                                                        <span class="woocommerce-Price-amount amount">580,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </del>
+                                                    <ins>
+                                                        <span class="woocommerce-Price-amount amount">550,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </ins>
+                                                </span>
+                                            </div>
+                                            <div class="add-to-cart-button">
+                                                <a data-product_id="5332" data-product_sku="" rel="nofollow" href="?add-to-cart=5332" data-quantity="1" class="primary is-small mb-0 button product_type_simple add_to_cart_button ajax_add_to_cart is-outline" aria-label="Thêm &amp;ldquo;18.21 Man Made WAX&amp;rdquo; vào giỏ hàng">Mua hàng</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="product-small col has-hover product type-product post-4259 status-publish first instock product_cat-sap-vuot-toc product_tag-matte-paste product_tag-paste product_tag-sap-vuot-toc product_tag-sap-vuot-toc-cao-cap product_tag-sap-vuot-toc-nam product_tag-sap-vuot-toc-nam-cao-cap has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+                                <div class="col-inner">
+                                    <div class="badge-container absolute left top z-1">
+                                        <div class="callout badge badge-square">
+                                            <div class="badge-inner secondary on-sale">
+                                                <span class="onsale">-31%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="product-small box ">
+                                        <div class="box-image">
+                                            <div class="image-fade_in_back">
+                                                <a href="https://clmensstore.com/cua-hang/sap-vuot-toc-anti-gravite-paste/">
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2018/04/F9cje23-e1528704498227-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2018/04/F9cje23-e1528704498227-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2018/04/F9cje23-e1528704498227-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2018/04/F9cje23-e1528704498227-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2018/04/F9cje23-e1528704498227-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2018/04/F9cje23-e1528704498227-1024x1024.jpg 1024w, https://clmensstore.com/wp-content/uploads/2018/04/F9cje23-e1528704498227-510x510.jpg 510w, https://clmensstore.com/wp-content/uploads/2018/04/F9cje23-e1528704498227-100x100.jpg 100w" srcset="" class="lazy-load attachment-woocommerce_thumbnail size-woocommerce_thumbnail" height="247"/>
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2018/04/UJyxVN2-e1528704373687-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2018/04/UJyxVN2-e1528704373687-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2018/04/UJyxVN2-e1528704373687-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2018/04/UJyxVN2-e1528704373687-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2018/04/UJyxVN2-e1528704373687-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2018/04/UJyxVN2-e1528704373687-1024x1024.jpg 1024w, https://clmensstore.com/wp-content/uploads/2018/04/UJyxVN2-e1528704373687-510x510.jpg 510w, https://clmensstore.com/wp-content/uploads/2018/04/UJyxVN2-e1528704373687-100x100.jpg 100w" srcset="" class="lazy-load show-on-hover absolute fill hide-for-small back-image" height="247"/>
+                                                </a>
+                                            </div>
+                                            <div class="image-tools is-small top right show-on-hover"></div>
+                                            <div class="image-tools is-small hide-for-small bottom left show-on-hover"></div>
+                                            <div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"></div>
+                                        </div>
+                                        <div class="box-text box-text-products text-center grid-style-2">
+                                            <div class="title-wrapper">
+                                                <p class="name product-title">
+                                                    <a href="https://clmensstore.com/cua-hang/sap-vuot-toc-anti-gravite-paste/">Anti Gravite Paste</a>
+                                                </p>
+                                            </div>
+                                            <div class="price-wrapper">
+                                                <span class="price">
+                                                    <del>
+                                                        <span class="woocommerce-Price-amount amount">580,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </del>
+                                                    <ins>
+                                                        <span class="woocommerce-Price-amount amount">400,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </ins>
+                                                </span>
+                                            </div>
+                                            <div class="add-to-cart-button">
+                                                <a data-product_id="4259" data-product_sku="" rel="nofollow" href="?add-to-cart=4259" data-quantity="1" class="primary is-small mb-0 button product_type_simple add_to_cart_button ajax_add_to_cart is-outline" aria-label="Thêm &amp;ldquo;Anti Gravite Paste&amp;rdquo; vào giỏ hàng">Mua hàng</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="product-small col has-hover product type-product post-31651 status-publish instock product_cat-clay-pomade product_cat-pomade product_cat-sap-vuot-toc has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+                                <div class="col-inner">
+                                    <div class="badge-container absolute left top z-1">
+                                        <div class="callout badge badge-square">
+                                            <div class="badge-inner secondary on-sale">
+                                                <span class="onsale">-7%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="product-small box ">
+                                        <div class="box-image">
+                                            <div class="image-fade_in_back">
+                                                <a href="https://clmensstore.com/cua-hang/arcadian-clay-pomade-travel-size/">
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2020/05/Travel_Clay_900x-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="Arcadian Clay Pomade Travel Size" data-srcset="https://clmensstore.com/wp-content/uploads/2020/05/Travel_Clay_900x-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Clay_900x-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Clay_900x-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Clay_900x-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Clay_900x-510x510.jpg 510w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Clay_900x-100x100.jpg 100w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Clay_900x.jpg 900w" srcset="" class="lazy-load attachment-woocommerce_thumbnail size-woocommerce_thumbnail" height="247"/>
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2020/05/Travel_Clay_Inside_900x-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="Arcadian Clay Pomade Travel Size" data-srcset="https://clmensstore.com/wp-content/uploads/2020/05/Travel_Clay_Inside_900x-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Clay_Inside_900x-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Clay_Inside_900x-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Clay_Inside_900x-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Clay_Inside_900x-510x510.jpg 510w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Clay_Inside_900x-100x100.jpg 100w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Clay_Inside_900x.jpg 900w" srcset="" class="lazy-load show-on-hover absolute fill hide-for-small back-image" height="247"/>
+                                                </a>
+                                            </div>
+                                            <div class="image-tools is-small top right show-on-hover"></div>
+                                            <div class="image-tools is-small hide-for-small bottom left show-on-hover"></div>
+                                            <div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"></div>
+                                        </div>
+                                        <div class="box-text box-text-products text-center grid-style-2">
+                                            <div class="title-wrapper">
+                                                <p class="name product-title">
+                                                    <a href="https://clmensstore.com/cua-hang/arcadian-clay-pomade-travel-size/">Arcadian Clay Pomade &amp;#8211; Travel Size</a>
+                                                </p>
+                                            </div>
+                                            <div class="price-wrapper">
+                                                <span class="price">
+                                                    <del>
+                                                        <span class="woocommerce-Price-amount amount">300,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </del>
+                                                    <ins>
+                                                        <span class="woocommerce-Price-amount amount">280,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </ins>
+                                                </span>
+                                            </div>
+                                            <div class="add-to-cart-button">
+                                                <a data-product_id="31651" data-product_sku="" rel="nofollow" href="?add-to-cart=31651" data-quantity="1" class="primary is-small mb-0 button product_type_simple add_to_cart_button ajax_add_to_cart is-outline" aria-label="Thêm &amp;ldquo;Arcadian Clay Pomade - Travel Size&amp;rdquo; vào giỏ hàng">Mua hàng</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="product-small col has-hover product type-product post-16096 status-publish instock product_cat-sap-vuot-toc has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+                                <div class="col-inner">
+                                    <div class="badge-container absolute left top z-1">
+                                        <div class="callout badge badge-square">
+                                            <div class="badge-inner secondary on-sale">
+                                                <span class="onsale">-18%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="product-small box ">
+                                        <div class="box-image">
+                                            <div class="image-fade_in_back">
+                                                <a href="https://clmensstore.com/cua-hang/arcadian-clay-rum-limited-edition-2019/">
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2019/09/7d3f0a111f8c04d09e907c52faced8c8-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2019/09/7d3f0a111f8c04d09e907c52faced8c8-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2019/09/7d3f0a111f8c04d09e907c52faced8c8-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2019/09/7d3f0a111f8c04d09e907c52faced8c8.jpg 1024w, https://clmensstore.com/wp-content/uploads/2019/09/7d3f0a111f8c04d09e907c52faced8c8-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2019/09/7d3f0a111f8c04d09e907c52faced8c8-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2019/09/7d3f0a111f8c04d09e907c52faced8c8-510x510.jpg 510w, https://clmensstore.com/wp-content/uploads/2019/09/7d3f0a111f8c04d09e907c52faced8c8-100x100.jpg 100w" srcset="" class="lazy-load attachment-woocommerce_thumbnail size-woocommerce_thumbnail" height="247"/>
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2019/09/68550356_2320769148183299_222501351999930368_n-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2019/09/68550356_2320769148183299_222501351999930368_n-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2019/09/68550356_2320769148183299_222501351999930368_n-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2019/09/68550356_2320769148183299_222501351999930368_n-100x100.jpg 100w" srcset="" class="lazy-load show-on-hover absolute fill hide-for-small back-image" height="247"/>
+                                                </a>
+                                            </div>
+                                            <div class="image-tools is-small top right show-on-hover"></div>
+                                            <div class="image-tools is-small hide-for-small bottom left show-on-hover"></div>
+                                            <div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"></div>
+                                        </div>
+                                        <div class="box-text box-text-products text-center grid-style-2">
+                                            <div class="title-wrapper">
+                                                <p class="name product-title">
+                                                    <a href="https://clmensstore.com/cua-hang/arcadian-clay-rum-limited-edition-2019/">Arcadian Clay Rum (LIMITED EDITION 2019)</a>
+                                                </p>
+                                            </div>
+                                            <div class="price-wrapper">
+                                                <span class="price">
+                                                    <del>
+                                                        <span class="woocommerce-Price-amount amount">550,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </del>
+                                                    <ins>
+                                                        <span class="woocommerce-Price-amount amount">450,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </ins>
+                                                </span>
+                                            </div>
+                                            <div class="add-to-cart-button">
+                                                <a data-product_id="16096" data-product_sku="" rel="nofollow" href="?add-to-cart=16096" data-quantity="1" class="primary is-small mb-0 button product_type_simple add_to_cart_button ajax_add_to_cart is-outline" aria-label="Thêm &amp;ldquo;Arcadian Clay Rum (LIMITED EDITION 2019)&amp;rdquo; vào giỏ hàng">Mua hàng</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="product-small col has-hover product type-product post-6168 status-publish last instock product_cat-sap-vuot-toc product_tag-arcadian product_tag-matte-paste product_tag-sap-vuot-toc product_tag-sap-vuot-toc-cao-cap product_tag-sap-vuot-toc-nam product_tag-wax-vuot-toc product_tag-wax-vuot-toc-cao-cap has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+                                <div class="col-inner">
+                                    <div class="badge-container absolute left top z-1">
+                                        <div class="callout badge badge-square">
+                                            <div class="badge-inner secondary on-sale">
+                                                <span class="onsale">-4%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="product-small box ">
+                                        <div class="box-image">
+                                            <div class="image-fade_in_back">
+                                                <a href="https://clmensstore.com/cua-hang/arcadian-matte-paste/">
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2018/10/Matte_Paste_Front_900x-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2018/10/Matte_Paste_Front_900x-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2018/10/Matte_Paste_Front_900x-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2018/10/Matte_Paste_Front_900x-100x100.jpg 100w" srcset="" class="lazy-load attachment-woocommerce_thumbnail size-woocommerce_thumbnail" height="247"/>
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2018/10/Matte_Paste_Inside_900x-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2018/10/Matte_Paste_Inside_900x-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2018/10/Matte_Paste_Inside_900x-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2018/10/Matte_Paste_Inside_900x-100x100.jpg 100w" srcset="" class="lazy-load show-on-hover absolute fill hide-for-small back-image" height="247"/>
+                                                </a>
+                                            </div>
+                                            <div class="image-tools is-small top right show-on-hover"></div>
+                                            <div class="image-tools is-small hide-for-small bottom left show-on-hover"></div>
+                                            <div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"></div>
+                                        </div>
+                                        <div class="box-text box-text-products text-center grid-style-2">
+                                            <div class="title-wrapper">
+                                                <p class="name product-title">
+                                                    <a href="https://clmensstore.com/cua-hang/arcadian-matte-paste/">Arcadian Matte Paste</a>
+                                                </p>
+                                            </div>
+                                            <div class="price-wrapper">
+                                                <span class="price">
+                                                    <del>
+                                                        <span class="woocommerce-Price-amount amount">500,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </del>
+                                                    <ins>
+                                                        <span class="woocommerce-Price-amount amount">480,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </ins>
+                                                </span>
+                                            </div>
+                                            <div class="add-to-cart-button">
+                                                <a data-product_id="6168" data-product_sku="" rel="nofollow" href="?add-to-cart=6168" data-quantity="1" class="primary is-small mb-0 button product_type_simple add_to_cart_button ajax_add_to_cart is-outline" aria-label="Thêm &amp;ldquo;Arcadian Matte Paste&amp;rdquo; vào giỏ hàng">Mua hàng</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="product-small col has-hover product type-product post-31655 status-publish first instock product_cat-sap-vuot-toc has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+                                <div class="col-inner">
+                                    <div class="badge-container absolute left top z-1">
+                                        <div class="callout badge badge-square">
+                                            <div class="badge-inner secondary on-sale">
+                                                <span class="onsale">-7%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="product-small box ">
+                                        <div class="box-image">
+                                            <div class="image-fade_in_back">
+                                                <a href="https://clmensstore.com/cua-hang/arcadian-matte-paste-travel-size/">
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_900x-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="Arcadian Heavy Hold travel size" data-srcset="https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_900x-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_900x-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_900x-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_900x-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_900x-510x510.jpg 510w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_900x-100x100.jpg 100w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_900x.jpg 900w" srcset="" class="lazy-load attachment-woocommerce_thumbnail size-woocommerce_thumbnail" height="247"/>
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_Inside_900x-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="Arcadian Heavy Hold travel size" data-srcset="https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_Inside_900x-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_Inside_900x-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_Inside_900x-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_Inside_900x-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_Inside_900x-510x510.jpg 510w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_Inside_900x-100x100.jpg 100w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_Inside_900x.jpg 900w" srcset="" class="lazy-load show-on-hover absolute fill hide-for-small back-image" height="247"/>
+                                                </a>
+                                            </div>
+                                            <div class="image-tools is-small top right show-on-hover"></div>
+                                            <div class="image-tools is-small hide-for-small bottom left show-on-hover"></div>
+                                            <div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"></div>
+                                        </div>
+                                        <div class="box-text box-text-products text-center grid-style-2">
+                                            <div class="title-wrapper">
+                                                <p class="name product-title">
+                                                    <a href="https://clmensstore.com/cua-hang/arcadian-matte-paste-travel-size/">Arcadian Matte Paste &amp;#8211; Travel Size</a>
+                                                </p>
+                                            </div>
+                                            <div class="price-wrapper">
+                                                <span class="price">
+                                                    <del>
+                                                        <span class="woocommerce-Price-amount amount">300,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </del>
+                                                    <ins>
+                                                        <span class="woocommerce-Price-amount amount">280,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </ins>
+                                                </span>
+                                            </div>
+                                            <div class="add-to-cart-button">
+                                                <a data-product_id="31655" data-product_sku="" rel="nofollow" href="?add-to-cart=31655" data-quantity="1" class="primary is-small mb-0 button product_type_simple add_to_cart_button ajax_add_to_cart is-outline" aria-label="Thêm &amp;ldquo;Arcadian Matte Paste - Travel Size&amp;rdquo; vào giỏ hàng">Mua hàng</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="product-small col has-hover product type-product post-1609 status-publish instock product_cat-sap-vuot-toc product_tag-blumaan product_tag-blumaan-clay product_tag-cavalier-clay has-post-thumbnail sale shipping-taxable purchasable product-type-variable">
+                                <div class="col-inner">
+                                    <div class="badge-container absolute left top z-1">
+                                        <div class="callout badge badge-square">
+                                            <div class="badge-inner secondary on-sale">
+                                                <span class="onsale">-15%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="product-small box ">
+                                        <div class="box-image">
+                                            <div class="image-fade_in_back">
+                                                <a href="https://clmensstore.com/cua-hang/blumaan-cavalier-clay/">
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2017/07/op5kyQx-e1528703861510-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2017/07/op5kyQx-e1528703861510-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2017/07/op5kyQx-e1528703861510-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2017/07/op5kyQx-e1528703861510-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2017/07/op5kyQx-e1528703861510-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2017/07/op5kyQx-e1528703861510-1024x1024.jpg 1024w, https://clmensstore.com/wp-content/uploads/2017/07/op5kyQx-e1528703861510-510x510.jpg 510w, https://clmensstore.com/wp-content/uploads/2017/07/op5kyQx-e1528703861510-100x100.jpg 100w" srcset="" class="lazy-load attachment-woocommerce_thumbnail size-woocommerce_thumbnail" height="247"/>
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2017/07/gMuNg8O-e1528703813775-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2017/07/gMuNg8O-e1528703813775-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2017/07/gMuNg8O-e1528703813775-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2017/07/gMuNg8O-e1528703813775-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2017/07/gMuNg8O-e1528703813775-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2017/07/gMuNg8O-e1528703813775-1024x1024.jpg 1024w, https://clmensstore.com/wp-content/uploads/2017/07/gMuNg8O-e1528703813775-510x510.jpg 510w, https://clmensstore.com/wp-content/uploads/2017/07/gMuNg8O-e1528703813775-100x100.jpg 100w" srcset="" class="lazy-load show-on-hover absolute fill hide-for-small back-image" height="247"/>
+                                                </a>
+                                            </div>
+                                            <div class="image-tools is-small top right show-on-hover"></div>
+                                            <div class="image-tools is-small hide-for-small bottom left show-on-hover"></div>
+                                            <div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"></div>
+                                        </div>
+                                        <div class="box-text box-text-products text-center grid-style-2">
+                                            <div class="title-wrapper">
+                                                <p class="name product-title">
+                                                    <a href="https://clmensstore.com/cua-hang/blumaan-cavalier-clay/">Blumaan Cavalier Clay</a>
+                                                </p>
+                                            </div>
+                                            <div class="price-wrapper">
+                                                <span class="price">
+                                                    <span class="woocommerce-Price-amount amount">270,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>&amp;ndash;<span class="woocommerce-Price-amount amount">450,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                </span>
+                                            </div>
+                                            <div class="add-to-cart-button">
+                                                <a data-product_id="1609" data-product_sku="" rel="nofollow" href="https://clmensstore.com/cua-hang/blumaan-cavalier-clay/" data-quantity="1" class="primary is-small mb-0 button product_type_variable add_to_cart_button is-outline" aria-label="Lựa chọn cho &amp;ldquo;Blumaan Cavalier Clay&amp;rdquo;">Lựa chọn các tùy chọn</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="product-small col has-hover product type-product post-16637 status-publish instock product_cat-sap-vuot-toc has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+                                <div class="col-inner">
+                                    <div class="badge-container absolute left top z-1">
+                                        <div class="callout badge badge-square">
+                                            <div class="badge-inner secondary on-sale">
+                                                <span class="onsale">-13%</span>
+                                            </div>
+                                        </div>
+                                        <div class="badge callout badge-square">
+                                            <div class="badge-inner callout-new-bg is-small new-bubble">Còn 2 KIT</div>
+                                        </div>
+                                    </div>
+                                    <div class="product-small box ">
+                                        <div class="box-image">
+                                            <div class="image-fade_in_back">
+                                                <a href="https://clmensstore.com/cua-hang/blumaan-discovery-kit-bo-5-san-pham/">
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2019/09/blumaan-discovery-kit-1-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2019/09/blumaan-discovery-kit-1-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2019/09/blumaan-discovery-kit-1-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2019/09/blumaan-discovery-kit-1-100x100.jpg 100w" srcset="" class="lazy-load attachment-woocommerce_thumbnail size-woocommerce_thumbnail" height="247"/>
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2019/09/blumaan-discovery-kit-2-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2019/09/blumaan-discovery-kit-2-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2019/09/blumaan-discovery-kit-2-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2019/09/blumaan-discovery-kit-2-100x100.jpg 100w" srcset="" class="lazy-load show-on-hover absolute fill hide-for-small back-image" height="247"/>
+                                                </a>
+                                            </div>
+                                            <div class="image-tools is-small top right show-on-hover"></div>
+                                            <div class="image-tools is-small hide-for-small bottom left show-on-hover"></div>
+                                            <div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"></div>
+                                        </div>
+                                        <div class="box-text box-text-products text-center grid-style-2">
+                                            <div class="title-wrapper">
+                                                <p class="name product-title">
+                                                    <a href="https://clmensstore.com/cua-hang/blumaan-discovery-kit-bo-5-san-pham/">Blumaan Discovery Kit &amp;#8211; Bộ 5 sản phẩm</a>
+                                                </p>
+                                            </div>
+                                            <div class="price-wrapper">
+                                                <span class="price">
+                                                    <del>
+                                                        <span class="woocommerce-Price-amount amount">750,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </del>
+                                                    <ins>
+                                                        <span class="woocommerce-Price-amount amount">650,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                    </ins>
+                                                </span>
+                                            </div>
+                                            <div class="add-to-cart-button">
+                                                <a data-product_id="16637" data-product_sku="" rel="nofollow" href="?add-to-cart=16637" data-quantity="1" class="primary is-small mb-0 button product_type_simple add_to_cart_button ajax_add_to_cart is-outline" aria-label="Thêm &amp;ldquo;Blumaan Discovery Kit - Bộ 5 sản phẩm&amp;rdquo; vào giỏ hàng">Mua hàng</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="product-small col has-hover out-of-stock product type-product post-1622 status-publish last outofstock product_cat-sap-vuot-toc product_tag-blumaan product_tag-blumaan-hybrid-cream-clay product_tag-sap-vuot-toc product_tag-sap-vuot-toc-cao-cap product_tag-sap-vuot-toc-nam has-post-thumbnail sale shipping-taxable purchasable product-type-variable">
+                                <div class="col-inner">
+                                    <div class="badge-container absolute left top z-1">
+                                        <div class="callout badge badge-square">
+                                            <div class="badge-inner secondary on-sale">
+                                                <span class="onsale">-6%</span>
+                                            </div>
+                                        </div>
+                                        <div class="badge callout badge-square">
+                                            <div class="badge-inner callout-new-bg is-small new-bubble">Mới</div>
+                                        </div>
+                                    </div>
+                                    <div class="product-small box ">
+                                        <div class="box-image">
+                                            <div class="image-fade_in_back">
+                                                <a href="https://clmensstore.com/cua-hang/blumaan-hybrid-cream-clay/">
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2017/12/bf-e1528721617728-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2017/12/bf-e1528721617728-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2017/12/bf-e1528721617728-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2017/12/bf-e1528721617728-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2017/12/bf-e1528721617728-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2017/12/bf-e1528721617728-1024x1024.jpg 1024w, https://clmensstore.com/wp-content/uploads/2017/12/bf-e1528721617728-100x100.jpg 100w, https://clmensstore.com/wp-content/uploads/2017/12/bf-e1528721617728-510x510.jpg 510w" srcset="" class="lazy-load attachment-woocommerce_thumbnail size-woocommerce_thumbnail" height="247"/>
+                                                    <img data-src="https://clmensstore.com/wp-content/uploads/2017/12/XTRDe1t-e1528721594490-247x247.jpg" sizes="(max-width: 247px) 100vw, 247px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20247%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="247" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2017/12/XTRDe1t-e1528721594490-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2017/12/XTRDe1t-e1528721594490-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2017/12/XTRDe1t-e1528721594490-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2017/12/XTRDe1t-e1528721594490-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2017/12/XTRDe1t-e1528721594490-1024x1024.jpg 1024w, https://clmensstore.com/wp-content/uploads/2017/12/XTRDe1t-e1528721594490-100x100.jpg 100w, https://clmensstore.com/wp-content/uploads/2017/12/XTRDe1t-e1528721594490-510x510.jpg 510w" srcset="" class="lazy-load show-on-hover absolute fill hide-for-small back-image" height="247"/>
+                                                </a>
+                                            </div>
+                                            <div class="image-tools is-small top right show-on-hover"></div>
+                                            <div class="image-tools is-small hide-for-small bottom left show-on-hover"></div>
+                                            <div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"></div>
+                                            <div class="out-of-stock-label">Hết hàng</div>
+                                        </div>
+                                        <div class="box-text box-text-products text-center grid-style-2">
+                                            <div class="title-wrapper">
+                                                <p class="name product-title">
+                                                    <a href="https://clmensstore.com/cua-hang/blumaan-hybrid-cream-clay/">Blumaan Hybrid Cream Clay</a>
+                                                </p>
+                                            </div>
+                                            <div class="price-wrapper">
+                                                <span class="price">
+                                                    <span class="woocommerce-Price-amount amount">270,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>&amp;ndash;<span class="woocommerce-Price-amount amount">500,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                                </span>
+                                            </div>
+                                            <div class="add-to-cart-button">
+                                                <a data-product_id="1622" data-product_sku="" rel="nofollow" href="https://clmensstore.com/cua-hang/blumaan-hybrid-cream-clay/" data-quantity="1" class="primary is-small mb-0 button product_type_variable is-outline" aria-label="Lựa chọn cho &amp;ldquo;Blumaan Hybrid Cream Clay&amp;rdquo;">Lựa chọn các tùy chọn</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <nav class="woocommerce-pagination">
+                                <ul class="page-numbers nav-pagination links text-center">
+                                    <li>
+                                        <span aria-current="page" class="page-number current">1</span>
+                                    </li>
+                                    <li>
+                                        <a href="https://clmensstore.com/danh-muc/sap-vuot-toc/page/2/" class="page-number">2</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://clmensstore.com/danh-muc/sap-vuot-toc/page/3/" class="page-number">3</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://clmensstore.com/danh-muc/sap-vuot-toc/page/4/" class="page-number">4</a>
+                                    </li>
+                                    <li>
+                                        <span class="page-number dots">&amp;hellip;</span>
+                                    </li>
+                                    <li>
+                                        <a href="https://clmensstore.com/danh-muc/sap-vuot-toc/page/6/" class="page-number">6</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://clmensstore.com/danh-muc/sap-vuot-toc/page/7/" class="page-number">7</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://clmensstore.com/danh-muc/sap-vuot-toc/page/8/" class="page-number">8</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://clmensstore.com/danh-muc/sap-vuot-toc/page/2/" class="next page-number">
+                                            <i class="icon-angle-right"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                        <div class="page-load-status">
+                            <div class="loader-spinner infinite-scroll-request text-center">
+                                <div class="loading-spin"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="large-3 col hide-for-medium ">
+                    <div id="shop-sidebar" class="sidebar-inner">
+                        <aside id="woocommerce_product_categories-7" class="widget woocommerce widget_product_categories">
+                            <span class="widget-title shop-sidebar">Danh mục sản phẩm</span>
+                            <div class="is-divider small"></div>
+                            <ul class="product-categories">
+                                <li class="cat-item cat-item-96 current-cat">
+                                    <a href="https://clmensstore.com/danh-muc/sap-vuot-toc/">Sáp vuốt tóc</a>
+                                    <span class="count">(89)</span>
+                                </li>
+                                <li class="cat-item cat-item-118 cat-parent">
+                                    <a href="https://clmensstore.com/danh-muc/pomade/">Pomade</a>
+                                    <span class="count">(61)</span>
+                                    <ul class="children">
+                                        <li class="cat-item cat-item-158">
+                                            <a href="https://clmensstore.com/danh-muc/pomade/clay-pomade/">Clay Pomade</a>
+                                            <span class="count">(14)</span>
+                                        </li>
+                                        <li class="cat-item cat-item-156">
+                                            <a href="https://clmensstore.com/danh-muc/pomade/pomade-goc-dau/">Pomade gốc dầu</a>
+                                            <span class="count">(11)</span>
+                                        </li>
+                                        <li class="cat-item cat-item-157">
+                                            <a href="https://clmensstore.com/danh-muc/pomade/pomade-goc-nuoc/">Pomade gốc nước</a>
+                                            <span class="count">(36)</span>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="cat-item cat-item-240 cat-parent">
+                                    <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/">Chăm sóc toàn thân</a>
+                                    <span class="count">(81)</span>
+                                    <ul class="children">
+                                        <li class="cat-item cat-item-306">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-goi-kho/">Dầu gội khô</a>
+                                            <span class="count">(2)</span>
+                                        </li>
+                                        <li class="cat-item cat-item-373">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/khu-mui-co-the/">Khử mùi cơ thể</a>
+                                            <span class="count">(6)</span>
+                                        </li>
+                                        <li class="cat-item cat-item-375">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/sua-rua-mat/">sữa rửa mặt</a>
+                                            <span class="count">(3)</span>
+                                        </li>
+                                        <li class="cat-item cat-item-339">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/sua-tam-body-wash/">Sữa tắm - Body Wash</a>
+                                            <span class="count">(9)</span>
+                                        </li>
+                                        <li class="cat-item cat-item-331">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/xa-phong-toan-than/">Xà phồng toàn thân</a>
+                                            <span class="count">(3)</span>
+                                        </li>
+                                        <li class="cat-item cat-item-181">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-duong-toc/">Dầu dưỡng tóc</a>
+                                            <span class="count">(11)</span>
+                                        </li>
+                                        <li class="cat-item cat-item-176">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-goi-cao-cap/">Dầu gội cao cấp</a>
+                                            <span class="count">(35)</span>
+                                        </li>
+                                        <li class="cat-item cat-item-104">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-phuc-hoi-toc-hu-ton/">Dầu phục hồi tóc hư tổn</a>
+                                            <span class="count">(2)</span>
+                                        </li>
+                                        <li class="cat-item cat-item-177">
+                                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-xa-cao-cap/">Dầu xả cao cấp</a>
+                                            <span class="count">(32)</span>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="cat-item cat-item-379">
+                                    <a href="https://clmensstore.com/danh-muc/bot-tao-phong/">Bột tạo phồng</a>
+                                    <span class="count">(4)</span>
+                                </li>
+                                <li class="cat-item cat-item-399">
+                                    <a href="https://clmensstore.com/danh-muc/duong-cao-rau/">Dưỡng &amp;amp; Cạo Râu</a>
+                                    <span class="count">(4)</span>
+                                </li>
+                                <li class="cat-item cat-item-300 cat-parent">
+                                    <a href="https://clmensstore.com/danh-muc/dung-cu-tao-kieu/">Dụng cụ tạo kiểu</a>
+                                    <span class="count">(5)</span>
+                                    <ul class="children">
+                                        <li class="cat-item cat-item-256">
+                                            <a href="https://clmensstore.com/danh-muc/dung-cu-tao-kieu/luoc/">Lược</a>
+                                            <span class="count">(3)</span>
+                                        </li>
+                                        <li class="cat-item cat-item-299">
+                                            <a href="https://clmensstore.com/danh-muc/dung-cu-tao-kieu/may-say-toc/">Máy sấy tóc</a>
+                                            <span class="count">(2)</span>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="cat-item cat-item-136">
+                                    <a href="https://clmensstore.com/danh-muc/pre-styling-chuyen-dung/">Pre-styling chuyên dụng</a>
+                                    <span class="count">(24)</span>
+                                </li>
+                                <li class="cat-item cat-item-271">
+                                    <a href="https://clmensstore.com/danh-muc/goi-combo-khuyen-mai/">Gói Combo Khuyến mãi</a>
+                                    <span class="count">(3)</span>
+                                </li>
+                                <li class="cat-item cat-item-172">
+                                    <a href="https://clmensstore.com/danh-muc/gom/">Gôm</a>
+                                    <span class="count">(6)</span>
+                                </li>
+                                <li class="cat-item cat-item-236 cat-parent">
+                                    <a href="https://clmensstore.com/danh-muc/nuoc-hoa/">Nước Hoa</a>
+                                    <span class="count">(37)</span>
+                                    <ul class="children">
+                                        <li class="cat-item cat-item-334">
+                                            <a href="https://clmensstore.com/danh-muc/nuoc-hoa/nuoc-hoa-kho/">Nước hoa khô</a>
+                                            <span class="count">(5)</span>
+                                        </li>
+                                        <li class="cat-item cat-item-108">
+                                            <a href="https://clmensstore.com/danh-muc/nuoc-hoa/nuoc-hoa-nam/">Nước hoa nam</a>
+                                            <span class="count">(31)</span>
+                                        </li>
+                                        <li class="cat-item cat-item-202">
+                                            <a href="https://clmensstore.com/danh-muc/nuoc-hoa/nuoc-hoa-nu/">Nước hoa nữ</a>
+                                            <span class="count">(9)</span>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </aside>
+                        <aside id="woocommerce_price_filter-3" class="widget woocommerce widget_price_filter">
+                            <span class="widget-title shop-sidebar">Lọc theo giá</span>
+                            <div class="is-divider small"></div>
+                            <form method="get" action="https://clmensstore.com/danh-muc/sap-vuot-toc/">
+                                <div class="price_slider_wrapper">
+                                    <div style="display:none;" class="price_slider"></div>
+                                    <div data-step="10" class="price_slider_amount">
+                                        <input name="min_price" id="min_price" placeholder="Giá thấp nhất" type="text" value="200000" data-min="200000"/>
+                                        <input data-max="960000" name="max_price" id="max_price" placeholder="Giá cao nhất" type="text" value="960000"/>
+                                        <button type="submit" class="button">Lọc</button>
+                                        <div style="display:none;" class="price_label">Giá<span class="from"></span>&amp;mdash;<span class="to"></span></div>
+                                        <div class="clear"></div>
+                                    </div>
+                                </div>
+                            </form>
+                        </aside>
+                        <aside id="woocommerce_recently_viewed_products-3" class="widget woocommerce widget_recently_viewed_products">
+                            <span class="widget-title shop-sidebar">Sản phẩm bạn vừa xem</span>
+                            <div class="is-divider small"></div>
+                            <ul class="product_list_widget">
+                                <li>
+                                    <a href="https://clmensstore.com/cua-hang/18-21-man-made-beard-balm/">
+                                        <img data-src="https://clmensstore.com/wp-content/uploads/2019/10/Burlap_BLM2_Color_WEB_1500x1500-100x100.jpg" sizes="(max-width: 100px) 100vw, 100px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="100" alt="18.21 MAN MADE beard Balm" data-srcset="https://clmensstore.com/wp-content/uploads/2019/10/Burlap_BLM2_Color_WEB_1500x1500-100x100.jpg 100w, https://clmensstore.com/wp-content/uploads/2019/10/Burlap_BLM2_Color_WEB_1500x1500-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2019/10/Burlap_BLM2_Color_WEB_1500x1500-247x247.jpg 247w" srcset="" class="lazy-load attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" height="100"/>
+                                        <span class="product-title">18.21 MAN MADE BEARD  BALM</span>
+                                    </a>
+                                    <del>
+                                        <span class="woocommerce-Price-amount amount">580,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                    </del>
+                                    <ins>
+                                        <span class="woocommerce-Price-amount amount">550,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                    </ins>
+                                </li>
+                                <li>
+                                    <a href="https://clmensstore.com/cua-hang/arcadian-matte-paste-travel-size/">
+                                        <img data-src="https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_900x-100x100.jpg" sizes="(max-width: 100px) 100vw, 100px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="100" alt="Arcadian Heavy Hold travel size" data-srcset="https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_900x-100x100.jpg 100w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_900x-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_900x-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_900x-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_900x-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_900x-510x510.jpg 510w, https://clmensstore.com/wp-content/uploads/2020/05/Travel_Paste_900x.jpg 900w" srcset="" class="lazy-load attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" height="100"/>
+                                        <span class="product-title">Arcadian Matte Paste - Travel Size</span>
+                                    </a>
+                                    <del>
+                                        <span class="woocommerce-Price-amount amount">300,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                    </del>
+                                    <ins>
+                                        <span class="woocommerce-Price-amount amount">280,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                    </ins>
+                                </li>
+                                <li>
+                                    <a href="https://clmensstore.com/cua-hang/matte-clay/">
+                                        <img data-src="https://clmensstore.com/wp-content/uploads/2018/01/q7BQklV-e1528721567933-100x100.jpg" sizes="(max-width: 100px) 100vw, 100px" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" width="100" alt="" data-srcset="https://clmensstore.com/wp-content/uploads/2018/01/q7BQklV-e1528721567933-100x100.jpg 100w, https://clmensstore.com/wp-content/uploads/2018/01/q7BQklV-e1528721567933-150x150.jpg 150w, https://clmensstore.com/wp-content/uploads/2018/01/q7BQklV-e1528721567933-300x300.jpg 300w, https://clmensstore.com/wp-content/uploads/2018/01/q7BQklV-e1528721567933-768x768.jpg 768w, https://clmensstore.com/wp-content/uploads/2018/01/q7BQklV-e1528721567933-1024x1024.jpg 1024w, https://clmensstore.com/wp-content/uploads/2018/01/q7BQklV-e1528721567933-247x247.jpg 247w, https://clmensstore.com/wp-content/uploads/2018/01/q7BQklV-e1528721567933-510x510.jpg 510w" srcset="" class="lazy-load attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" height="100"/>
+                                        <span class="product-title">MATTE CLAY PROFESSIONAL</span>
+                                    </a>
+                                    <span class="woocommerce-Price-amount amount">220,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>&amp;ndash;<span class="woocommerce-Price-amount amount">550,000<span class="woocommerce-Price-currencySymbol">&amp;#8363;</span></span>
+                                </li>
+                            </ul>
+                        </aside>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <footer id="footer" class="footer-wrapper">
+            <div class="footer-widgets footer footer-1">
+                <div class="row dark large-columns-3 mb-0">
+                    <div id="custom_html-2" class="widget_text col pb-0 widget widget_custom_html">
+                        <span class="widget-title">Thông TIN LIÊN HỆ</span>
+                        <div class="is-divider small"></div>
+                        <div class="textwidget custom-html-widget">
+                            <div class="contact-info contact-info-block">
+                                <ul class="contact-details">
+                                    <li>
+                                        <strong>&amp;gt; Giấy CNĐKKD:</strong>41K8021836</li>
+                                    <li>
+                                        <strong>&amp;gt; Địa chỉ Showroom:</strong>
+                                        <span>151/8 Lạc Long Quân, Phường 1, Quận 11, TP.HCM (Kế trường tiểu học Hưng Việt Quận 11 )</span>
+                                        <br/>Nếu bạn tìm trên google map, hãy thêm<strong>PHƯỜNG 1</strong>vào</li>
+                                    <li>(<a rel="noopener noreferrer" href="https://www.google.com/maps/place/CL+Men&apos;s+Store+-+S%C3%A1p+vu%E1%BB%91t+t%C3%B3c+%26+Pomade+cao+c%E1%BA%A5p/@10.7575808,106.6372653,18z/data=!4m8!1m2!2m1!1sCL+Men&apos;s+Store!3m4!1s0x31752fae8c81c0af:0xf0183e22f75a1049!8m2!3d10.757555!4d106.637218?hl=en-US" target="_blank">Bản đồ hướng dẫn</a>)</li>
+                                    <li>
+                                        <strong>&amp;gt; Số tư vấn:</strong>
+                                        <span>090 143 22 41</span>
+                                    </li>
+                                    <li>
+                                        <strong>&amp;gt; Email:</strong>
+                                        <span>
+                                            <a href="mailto:clmensstore.com@gmail.com">clmensstore.com@gmail.com</a>
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-clock-o"></i>
+                                        <strong>Thời gian làm việc:</strong>
+                                        <span>
+                                            <br/>Thứ 2 - Chủ Nhật / 9:00 AM - 8:00 PM</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="custom_html-7" class="widget_text col pb-0 widget widget_custom_html">
+                        <span class="widget-title">ĐIỀU KHOẢN &amp;#038; QUYỀN LỢI</span>
+                        <div class="is-divider small"></div>
+                        <div class="textwidget custom-html-widget">
+                            <div class="contact-info contact-info-block">
+                                <ul class="contact-details">
+                                    <li>&amp;gt;<a href="#">Chính Sách &amp;amp;	 quyền lợi</a></li>
+                                    <li>&amp;gt;<a href="https://clmensstore.com/huong-dan-dat-hang-tren-website/">Hướng dẫn mua hàng Online</a></li>
+                                    <li>&amp;gt; Chính sách giao hàng</li>
+                                    <li>&amp;gt; Chính sách bảo hành &amp;amp;	 đổi trả</li>
+                                    <li>&amp;gt;<a href="https://clmensstore.com/blog/cac-cau-hoi-faq-giai-dap-thac-mac-danh-cho-khach-hang/">Câu hỏi FAQ</a></li>
+                                    <li>&amp;gt;<a href="https://clmensstore.com/lien-he/">Liên hệ cho chúng tôi</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="custom_html-3" class="widget_text col pb-0 widget widget_custom_html">
+                        <span class="widget-title">Fanpage CL Men&amp;#8217;s Store</span>
+                        <div class="is-divider small"></div>
+                        <div class="textwidget custom-html-widget">
+                            <div data-show-facepile="true" data-hide-cover="false" class="fb-page" data-adapt-container-width="true" data-href="https://www.facebook.com/CLMensStore/" data-small-header="false">
+                                <blockquote cite="https://www.facebook.com/CLMensStore/" class="fb-xfbml-parse-ignore">
+                                    <a href="https://www.facebook.com/CLMensStore/">CL Men&amp;#039;s Store</a>
+                                </blockquote>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="absolute-footer dark medium-text-center small-text-center">
+                <div class="container clearfix">
+                    <div class="footer-secondary pull-right">
+                        <div class="footer-text inline-block small-block">Website thuộc bản quyền của<a href="https://clmensstore.com">CL Men's Store</a></div>
+                    </div>
+                    <div class="footer-primary pull-left">
+                        <div class="copyright-footer">Copyright 2020 &amp;copy;<strong>CL MEN'S STORE</strong></div>
+                    </div>
+                </div>
+            </div>
+            <a href="#top" id="top-link" class="back-to-top button icon invert plain fixed bottom z-1 is-outline hide-for-medium circle">
+                <i class="icon-angle-up"></i>
+            </a>
+        </footer>
+    </div>
+    <div class="wof-coupon-bars">
+        <div data-timeframe="days" data-duration="15" style="color:#357ebf;background:#000;display:none;" data-id="33155" class="wof-coupon-bar">
+            <div class="wof-coupon-text">Mã giảm giá<span class="wof-bar-code"></span>có thời hạn là<div class="wof-bar-timer">
+                    <span data-text="ngày" class="wof-bar-d"></span>
+                    <span data-text="giờ" class="wof-bar-h"></span>
+                    <span data-text="phút" class="wof-bar-m"></span>
+                    <span data-text="giây" class="wof-bar-s"></span>
+                </div>
+            </div>
+            <div class="wof-bar-close">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="30">
+                    <path d="M77.6 21.1l-28 28.1-28.1-28.1-1.9 1.9 28 28.1-28 28.1 1.9 1.9L49.6 53l28 28.1 2-1.9-28.1-28.1L79.6 23" fill="#357ebf"/>
+                </svg>
+            </div>
+        </div>
+        <div data-timeframe="days" data-duration="15" style="color:#357ebf;background:#000;display:none;" data-id="32772" class="wof-coupon-bar">
+            <div class="wof-coupon-text">Mã giảm giá<span class="wof-bar-code"></span>có thời hạn là<div class="wof-bar-timer">
+                    <span data-text="ngày" class="wof-bar-d"></span>
+                    <span data-text="giờ" class="wof-bar-h"></span>
+                    <span data-text="phút" class="wof-bar-m"></span>
+                    <span data-text="giây" class="wof-bar-s"></span>
+                </div>
+            </div>
+            <div class="wof-bar-close">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="30">
+                    <path d="M77.6 21.1l-28 28.1-28.1-28.1-1.9 1.9 28 28.1-28 28.1 1.9 1.9L49.6 53l28 28.1 2-1.9-28.1-28.1L79.6 23" fill="#357ebf"/>
+                </svg>
+            </div>
+        </div>
+        <div data-timeframe="days" data-duration="15" style="color:#357ebf;background:#000;display:none;" data-id="32280" class="wof-coupon-bar">
+            <div class="wof-coupon-text">Mã giảm giá<span class="wof-bar-code"></span>có thời hạn là<div class="wof-bar-timer">
+                    <span data-text="ngày" class="wof-bar-d"></span>
+                    <span data-text="giờ" class="wof-bar-h"></span>
+                    <span data-text="phút" class="wof-bar-m"></span>
+                    <span data-text="giây" class="wof-bar-s"></span>
+                </div>
+            </div>
+            <div class="wof-bar-close">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="30">
+                    <path d="M77.6 21.1l-28 28.1-28.1-28.1-1.9 1.9 28 28.1-28 28.1 1.9 1.9L49.6 53l28 28.1 2-1.9-28.1-28.1L79.6 23" fill="#357ebf"/>
+                </svg>
+            </div>
+        </div>
+        <div data-timeframe="days" data-duration="15" style="color:#357ebf;background:#000;display:none;" data-id="31249" class="wof-coupon-bar">
+            <div class="wof-coupon-text">Mã giảm giá<span class="wof-bar-code"></span>có thời hạn là<div class="wof-bar-timer">
+                    <span data-text="ngày" class="wof-bar-d"></span>
+                    <span data-text="giờ" class="wof-bar-h"></span>
+                    <span data-text="phút" class="wof-bar-m"></span>
+                    <span data-text="giây" class="wof-bar-s"></span>
+                </div>
+            </div>
+            <div class="wof-bar-close">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="30">
+                    <path d="M77.6 21.1l-28 28.1-28.1-28.1-1.9 1.9 28 28.1-28 28.1 1.9 1.9L49.6 53l28 28.1 2-1.9-28.1-28.1L79.6 23" fill="#357ebf"/>
+                </svg>
+            </div>
+        </div>
+        <div data-timeframe="days" data-duration="15" style="color:#357ebf;background:#000;display:none;" data-id="30545" class="wof-coupon-bar">
+            <div class="wof-coupon-text">Mã giảm giá<span class="wof-bar-code"></span>có thời hạn là<div class="wof-bar-timer">
+                    <span data-text="ngày" class="wof-bar-d"></span>
+                    <span data-text="giờ" class="wof-bar-h"></span>
+                    <span data-text="phút" class="wof-bar-m"></span>
+                    <span data-text="giây" class="wof-bar-s"></span>
+                </div>
+            </div>
+            <div class="wof-bar-close">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="30">
+                    <path d="M77.6 21.1l-28 28.1-28.1-28.1-1.9 1.9 28 28.1-28 28.1 1.9 1.9L49.6 53l28 28.1 2-1.9-28.1-28.1L79.6 23" fill="#357ebf"/>
+                </svg>
+            </div>
+        </div>
+        <div data-timeframe="days" data-duration="15" style="color:#357ebf;background:#000;display:none;" data-id="27319" class="wof-coupon-bar">
+            <div class="wof-coupon-text">Mã giảm giá<span class="wof-bar-code"></span>có thời hạn là<div class="wof-bar-timer">
+                    <span data-text="ngày" class="wof-bar-d"></span>
+                    <span data-text="giờ" class="wof-bar-h"></span>
+                    <span data-text="phút" class="wof-bar-m"></span>
+                    <span data-text="giây" class="wof-bar-s"></span>
+                </div>
+            </div>
+            <div class="wof-bar-close">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="30">
+                    <path d="M77.6 21.1l-28 28.1-28.1-28.1-1.9 1.9 28 28.1-28 28.1 1.9 1.9L49.6 53l28 28.1 2-1.9-28.1-28.1L79.6 23" fill="#357ebf"/>
+                </svg>
+            </div>
+        </div>
+        <div data-timeframe="days" data-duration="15" style="color:#fff;background:#227cd6;display:none;" data-id="26693" class="wof-coupon-bar">
+            <div class="wof-coupon-text">Mã giảm giá<span class="wof-bar-code"></span>có thời hạn là<div class="wof-bar-timer">
+                    <span data-text="Ngày" class="wof-bar-d"></span>
+                    <span data-text="Giờ" class="wof-bar-h"></span>
+                    <span data-text="Phút" class="wof-bar-m"></span>
+                    <span data-text="Giây" class="wof-bar-s"></span>
+                </div>
+            </div>
+            <div class="wof-bar-close">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="30">
+                    <path d="M77.6 21.1l-28 28.1-28.1-28.1-1.9 1.9 28 28.1-28 28.1 1.9 1.9L49.6 53l28 28.1 2-1.9-28.1-28.1L79.6 23" fill="#fff"/>
+                </svg>
+            </div>
+        </div>
+    </div>
+    <div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide">
+        <div class="sidebar-menu no-scrollbar text-center">
+            <ul class="nav nav-sidebar nav-anim nav-vertical nav-uppercase">
+                <li class="header-search-form search-form html relative has-icon">
+                    <div class="header-search-form-wrapper">
+                        <div class="searchform-wrapper ux-search-box relative form-flat is-normal">
+                            <form role="search" method="get" action="https://clmensstore.com/" class="searchform">
+                                <div class="flex-row relative">
+                                    <div class="flex-col flex-grow">
+                                        <label for="woocommerce-product-search-field-1" class="screen-reader-text">Tìm kiếm:</label>
+                                        <input name="s" id="woocommerce-product-search-field-1" placeholder="Nhập ít nhất 3 ký tự để tìm sản phẩm" type="search" class="search-field mb-0" value=""/>
+                                        <input name="post_type" type="hidden" value="product"/>
+                                    </div>
+                                    <div class="flex-col">
+                                        <button type="submit" value="Tìm kiếm" class="ux-search-submit submit-button secondary button icon mb-0">
+                                            <i class="icon-search"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="live-search-results text-left z-top"></div>
+                            </form>
+                        </div>
+                    </div>
+                </li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5060">
+                    <a href="#">Thương Hiêu</a>
+                    <ul class="sub-menu nav-sidebar-ul children">
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-26247">
+                            <a href="#">Thương hiệu ngoại P.1</a>
+                            <ul class="sub-menu nav-sidebar-ul">
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-5339">
+                                    <a href="https://clmensstore.com/portfolio/18-21-man-made/">18.21 MAN MADE</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2233">
+                                    <a href="https://clmensstore.com/portfolio/apestomen/">APESTOMEN</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-5303">
+                                    <a href="https://clmensstore.com/portfolio/arcadian-grooming/">ARCADIAN GROOMING</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2234">
+                                    <a href="https://clmensstore.com/portfolio/blumaan/">BLUMAAN</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-5545">
+                                    <a href="https://clmensstore.com/portfolio/bona-fide/">BONA FIDE</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2235">
+                                    <a href="https://clmensstore.com/portfolio/by-vilain/">BY VILAIN</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-25675">
+                                    <a href="https://clmensstore.com/portfolio/dauntless-grooming/">DAUNTLESS GROOMING</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-26246">
+                                    <a href="https://clmensstore.com/portfolio/dapper-dan/">DAPPER DAN</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2415">
+                                    <a href="https://clmensstore.com/portfolio/flagship-pomade/">FLAGSHIP POMADE</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2239">
+                                    <a href="https://clmensstore.com/portfolio/hanz-de-fuko/">HANZ DE FUKO</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-6502">
+                                    <a href="https://clmensstore.com/portfolio/shear-revival/">SHEAR REVIVAL</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-498">
+                            <a href="#">Thương hiệu ngoại P.2</a>
+                            <ul class="sub-menu nav-sidebar-ul">
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-32130">
+                                    <a href="https://clmensstore.com/portfolio/suavecito/">SUAVECITO</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-32577">
+                                    <a href="https://clmensstore.com/portfolio/stickmore/">STICKMORE</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-17535">
+                                    <a href="https://clmensstore.com/portfolio/templeton-tonics/">TEMPLETON TONICS</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2241">
+                                    <a href="https://clmensstore.com/portfolio/morris-motley/">MORRIS MOTLEY</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-25674">
+                                    <a href="https://clmensstore.com/portfolio/moroccanoil/">MOROCCANOIL</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2240">
+                                    <a href="https://clmensstore.com/portfolio/kevin-murphy/">KEVIN MURPHY</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2434">
+                                    <a href="https://clmensstore.com/portfolio/odouds/">O&amp;#8217;DOUDS</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-31549">
+                                    <a href="https://clmensstore.com/portfolio/orientt/">ORIEN&amp;#8217;T</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2242">
+                                    <a href="https://clmensstore.com/portfolio/reuzel-pomade/">REUZEL GROOMING</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2238">
+                                    <a href="https://clmensstore.com/portfolio/grim-grease/">GRIM GREASE</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2988">
+                                    <a href="https://clmensstore.com/portfolio/rumble59/">RUMBLE59</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9593">
+                            <a href="#">Thương hiệu nước hoa</a>
+                            <ul class="sub-menu nav-sidebar-ul">
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-9597">
+                                    <a href="https://clmensstore.com/portfolio/calvin-klein/">CALVIN KLEIN</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-32575">
+                                    <a href="https://clmensstore.com/portfolio/tom-ford/">TOM FORD</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-32576">
+                                    <a href="https://clmensstore.com/portfolio/versace/">VERSACE</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1176">
+                            <a href="#">Thương hiệu Việt</a>
+                            <ul class="sub-menu nav-sidebar-ul">
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-5403">
+                                    <a href="https://clmensstore.com/portfolio/cl-mens-grooming/">CL MEN&amp;#8217;S GROOMING</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-10989">
+                                    <a href="https://clmensstore.com/portfolio/the-gents-bay/">THE GENTS BAY</a>
+                                </li>
+                                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_brand menu-item-2243">
+                                    <a href="https://clmensstore.com/portfolio/stephen-nolan-603/">STEPHEN NOLAN 603</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-496">
+                    <a>Tóc</a>
+                    <ul class="sub-menu nav-sidebar-ul children">
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-849">
+                            <a aria-current="page" href="https://clmensstore.com/danh-muc/sap-vuot-toc/">Sáp vuốt tóc</a>
+                        </li>
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-850">
+                            <a href="https://clmensstore.com/danh-muc/pomade">Pomade</a>
+                        </li>
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-895">
+                            <a href="https://clmensstore.com/danh-muc/pre-styling-chuyen-dung">Pre-Styling chuyên dụng</a>
+                        </li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-25157">
+                            <a href="https://clmensstore.com/danh-muc/bot-tao-phong/">Bột tạo phồng</a>
+                        </li>
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-893">
+                            <a href="https://clmensstore.com/danh-muc/gom/">Gôm</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-31547">
+                    <a href="#">Râu</a>
+                    <ul class="sub-menu nav-sidebar-ul children">
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31548">
+                            <a href="https://clmensstore.com/danh-muc/duong-cao-rau/">Kem cạo râu</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-485">
+                    <a href="https://clmensstore.com/danh-muc/nuoc-hoa/?v=e14da64a5617">NƯỚC HOA</a>
+                    <ul class="sub-menu nav-sidebar-ul children">
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-864">
+                            <a href="https://clmensstore.com/danh-muc/nuoc-hoa-nam" title="Nước hoa nam cao cấp &amp;#8211; CL Men&amp;#8217;s Store chuyên hàng hiệu nhập khẩu">Nước hoa nam</a>
+                        </li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5479">
+                            <a href="https://clmensstore.com/danh-muc/nuoc-hoa/nuoc-hoa-kho/">Nước hoa khô</a>
+                        </li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1795">
+                            <a href="https://clmensstore.com/danh-muc/nuoc-hoa/nuoc-hoa-nu/">Nước hoa nữ</a>
+                        </li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1484">
+                            <a href="https://clmensstore.com/danh-muc/nuoc-hoa/nuoc-hoa-mini/">Nước hoa mini</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-902">
+                    <a>Toàn thân</a>
+                    <ul class="sub-menu nav-sidebar-ul children">
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1371">
+                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-goi-cao-cap/">Dầu gội cao cấp</a>
+                        </li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1372">
+                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-xa-cao-cap/">Dầu xả cao cấp</a>
+                        </li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1392">
+                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-duong-toc/">Dầu dưỡng tóc</a>
+                        </li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4448">
+                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/dau-goi-kho/">Dầu gội khô</a>
+                        </li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-16081">
+                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/sua-rua-mat/">Sữa rửa mặt</a>
+                        </li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9602">
+                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/sua-tam-body-wash/">Sữa tắm &amp;#8211; Body Wash</a>
+                        </li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-15018">
+                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/khu-mui-co-the/">Khử mùi cơ thể</a>
+                        </li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5461">
+                            <a href="https://clmensstore.com/danh-muc/cham-soc-toan-than/xa-phong-toan-than/">Xà phồng toàn thân</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-28033">
+                    <a href="#">Gói Combo</a>
+                    <ul class="sub-menu nav-sidebar-ul children">
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-28034">
+                            <a href="https://clmensstore.com/danh-muc/goi-combo-khuyen-mai/">Combo khuyến mãi</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-4120">
+                    <a href="https://clmensstore.com/danh-muc/dung-cu-tao-kieu/">Dụng cụ</a>
+                    <ul class="sub-menu nav-sidebar-ul children">
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2698">
+                            <a href="https://clmensstore.com/danh-muc/dung-cu-tao-kieu/luoc/">Lược</a>
+                        </li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4121">
+                            <a href="https://clmensstore.com/danh-muc/dung-cu-tao-kieu/may-say-toc/">Máy sấy tóc</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-511">
+                    <a href="https://clmensstore.com/tong-hop-bai-viet/">Blog / Reviews</a>
+                    <ul class="sub-menu nav-sidebar-ul children">
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1197">
+                            <a href="https://clmensstore.com/tong-hop-bai-viet/blog-huong-dan/">Blog &amp;#038; Hướng dẫn</a>
+                        </li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1301">
+                            <a href="https://clmensstore.com/tong-hop-bai-viet/reviews-san-pham/">Reviews Sản Phẩm</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="account-item has-icon menu-item">
+                    <a href="https://clmensstore.com/tai-khoan/" class="nav-top-link nav-top-not-logged-in">
+                        <span class="header-account-title">Đăng nhập</span>
+                    </a>
+                </li>
+                <li class="html custom html_topbar_right">
+                    <strong style="font-size:11px" class="uppercase">Địa chỉ:<span style="color: red">151/8 Lạc Long Quân, Phường 1, Quận 11</span>(lưu ý PHường 1)</strong>
+                </li>
+                <li class="html custom html_top_right_text">
+                    <font style="color:yellow;">
+                        <b>Khuyến mãi HOT:  các sản phẩm tạo kiểu thuộc thương hiệu BluMaan đồng giá</b>
+                    </font>chỉ còn<b>450,000đ</b>
+                    <a href="https://clmensstore.com/portfolio/blumaan/">tại đây</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div data-wof-nonce="b7d6c1b9c7"></div>
+    <div class="quick-call-button"></div>
+    <div id="draggable" class="call-now-button">
+        <div>
+            <p class="call-text">090 14 322 41</p>
+            <a href="tel:+84901432241" id="quickcallbutton" title="Call Now">
+                <div class="quick-alo-ph-circle active"></div>
+                <div class="quick-alo-ph-circle-fill active"></div>
+                <div class="quick-alo-phone-img-circle shake"></div>
+            </a>
+        </div>
+    </div>
+    <style>@media screen and (max-width: 4096px) { 					.call-now-button { display: flex !important; background: #000000; }  					.quick-call-button { display: block !important; } 					}					@media screen and (min-width: px) { 					.call-now-button .call-text { display: none !important; } 					} 					@media screen and (max-width: 1024px) and (min-width: px) { 					.call-now-button .call-text { display: none !important; } 					}					@media screen and (max-width: px) { 					.call-now-button .call-text { display: none !important; } 					} 					.call-now-button { top: 90%; }					.call-now-button { left: 5%; }					.call-now-button { background: #000000; }					.call-now-button div a .quick-alo-ph-img-circle, .call-now-button div a .quick-alo-phone-img-circle { background-color: #0c3; }					.call-now-button .call-text { color: #fff; }</style>
+    <div id="fb-root"></div>
+    <div CL="true" Store="true" bạn="true" cho="true" thể="true" có="true" attribution="setup_toolpage_id=&quot;1897489573811104&quot;theme_color=&quot;#13cf13&quot;logged_in_greeting=&quot;Xin" Mens="true" khônglogged_out_greeting="Xin chào bạn, CL Men&apos;s Store có thể tư vấn cho bạn không?" chào="true" vấn="true" tư="true" class="fb-customerchat"></div>
+    <div id="login-form-popup" class="lightbox-content mfp-hide">
+        <div class="woocommerce-notices-wrapper"></div>
+        <div class="account-container lightbox-inner">
+            <div id="customer_login" class="col2-set row row-divided row-large">
+                <div class="col-1 large-6 col pb-0">
+                    <div class="account-login-inner">
+                        <h3 class="uppercase">Đăng nhập</h3>
+                        <form method="post" class="woocommerce-form woocommerce-form-login login">
+                            <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+                                <label for="username">Tên tài khoản hoặc địa chỉ email<span class="required">*</span></label>
+                                <input autocomplete="username" type="text" name="username" id="username" class="woocommerce-Input woocommerce-Input--text input-text" value=""/>
+                            </p>
+                            <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+                                <label for="password">Mật khẩu<span class="required">*</span></label>
+                                <input autocomplete="current-password" type="password" name="password" id="password" class="woocommerce-Input woocommerce-Input--text input-text"/>
+                            </p>
+                            <p class="form-row">
+                                <label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
+                                    <input type="checkbox" name="rememberme" id="rememberme" class="woocommerce-form__input woocommerce-form__input-checkbox" value="forever"/>
+                                    <span>Ghi nhớ mật khẩu</span>
+                                </label>
+                                <input type="hidden" name="woocommerce-login-nonce" id="woocommerce-login-nonce" value="c54f885939"/>
+                                <input type="hidden" name="_wp_http_referer" value="/danh-muc/sap-vuot-toc/"/>
+                                <button type="submit" name="login" class="woocommerce-Button button woocommerce-form-login__submit" value="Đăng nhập">Đăng nhập</button>
+                            </p>
+                            <p class="woocommerce-LostPassword lost_password">
+                                <a href="https://clmensstore.com/tai-khoan/quen-du-an/">Quên mật khẩu?</a>
+                            </p>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-2 large-6 col pb-0">
+                    <div class="account-register-inner">
+                        <h3 class="uppercase">Đăng ký</h3>
+                        <form method="post" class="woocommerce-form woocommerce-form-register register">
+                            <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+                                <label for="reg_username">Tên tài khoản<span class="required">*</span></label>
+                                <input autocomplete="username" type="text" name="username" id="reg_username" class="woocommerce-Input woocommerce-Input--text input-text" value=""/>
+                            </p>
+                            <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+                                <label for="reg_email">Địa chỉ email<span class="required">*</span></label>
+                                <input autocomplete="email" type="email" name="email" id="reg_email" class="woocommerce-Input woocommerce-Input--text input-text" value=""/>
+                            </p>
+                            <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+                                <label for="reg_password">Mật khẩu<span class="required">*</span></label>
+                                <input autocomplete="new-password" type="password" name="password" id="reg_password" class="woocommerce-Input woocommerce-Input--text input-text"/>
+                            </p>
+                            <div class="woocommerce-privacy-policy-text"></div>
+                            <p class="woocommerce-FormRow form-row">
+                                <input type="hidden" name="woocommerce-register-nonce" id="woocommerce-register-nonce" value="53864e508b"/>
+                                <input type="hidden" name="_wp_http_referer" value="/danh-muc/sap-vuot-toc/"/>
+                                <button type="submit" name="register" class="woocommerce-Button button" value="Đăng ký">Đăng ký</button>
+                            </p>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

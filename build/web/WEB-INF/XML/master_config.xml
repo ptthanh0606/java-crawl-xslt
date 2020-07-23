@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<crawl-breakpoints>
+    <products-breakpoint>   
+<!--        <products xmlns="https://www.page1.com">
+            <product xmlns="https://www.page1.com" 
+                     link="https://classic.vn/cua-hang/cham-soc-toc/">
+            </product>
+    
+            <product xmlns="https://www.page1.com" 
+                     link="https://classic.vn/cua-hang/cham-soc-da/">
+            </product>
+            
+            <product xmlns="https://www.page1.com" 
+                     link="https://classic.vn/cua-hang/cham-soc-rau/">
+            </product>
+        </products>
+    
+        <products xmlns="https://www.page2.com">
+            <product xmlns="https://www.page2.com" 
+                     link="https://clmensstore.com/cua-hang/page/1/">
+            </product>
+        </products>-->
+        
+        <products xmlns="https://www.page3.com">
+            <product xmlns="https://www.page3.com" 
+                     link="http://vnpomade.com/cua-hang.html">
+            </product>
+        </products>
+    </products-breakpoint>
+    
+</crawl-breakpoints>
+
